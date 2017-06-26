@@ -15,7 +15,7 @@ selectHit <- function(inFileName, outDirName, cutoff, drugListName){
   colnames(df)=as.character(df[1,])                         # 1st row will be a header of the table
   df=df[-1,]                                                # delete the 1st row which became a header
   df = data.frame("Drug"=rownames(df),df,check.names=F)     # add a column named "Drug"
-  write.table(df,file=sprintf('%soriginalDF.txt',outDirName),sep="/t",quote=F, col.names=T,row.names=T)
+  write.table(df,file=sprintf('%soriginalDF.txt',outDirName),sep="\t",quote=F, col.names=T,row.names=T)
   dlm = read.delim(drugListName,check.names=F)              # read a delimited text file(170406_druglist_plot.txt)
   # auc_df contains colnames : "Drug" "Drug2" "Target" "Color" "BT17_020T_M8_SNU" "BT17_1342T_M8" .....
   auc_df = merge(dlm,df,by.x=names(dlm)[1],by.y=names(df)[1],sort=F) # merge two data.frames that share the common rownames
@@ -49,23 +49,26 @@ selectHit <- function(inFileName, outDirName, cutoff, drugListName){
     print(sampleID)
     znorm_df = cbind(as.character(auc_df[,1]), as.character(auc_df[,2]), as.character(auc_df[,3]),t(apply(x,1,function(x) (x-mean(x, na.rm=T))/sd(x, na.rm=T))))
     hit = which(as.numeric(znorm_df[,sampleID])<= cutoff)      # select rownumbers that filtered by cutoff value
-    hit_drug = znorm_df[hit,2]                                # znorm_df[hit,1] --> "Drug",  znorm_df[hit,2] --> "Drug2"  
-    hit_value = as.numeric(znorm_df[hit,sampleID])
-    hit_target = znorm_df[hit,3]
-    hit_df = data.frame("Drug"=hit_drug,"Target"=hit_target,"z_score"= sprintf("%.2f", hit_value), stringsAsFactors = F)
-    hit_df = hit_df[order(hit_df$z_score,decreasing=T),]
-    
-    
+    print(length(hit))
+    if (length(hit) == 0){
+      hit_drug <- "None"
+      hit_value <- "None"
+      hit_target <- "No Recommended Drugs"
+      hit_df = data.frame("Drug"=hit_drug,"Target"=hit_target,"z_score"= hit_value, stringsAsFactors = F)
+    }
+    else {
+      hit_drug = znorm_df[hit,2]                                # znorm_df[hit,1] --> "Drug",  znorm_df[hit,2] --> "Drug2"  
+      hit_value = as.numeric(znorm_df[hit,sampleID])
+      hit_target = znorm_df[hit,3]
+      hit_df = data.frame("Drug"=hit_drug,"Target"=hit_target,"z_score"= sprintf("%.2f", hit_value), stringsAsFactors = F)
+      hit_df = hit_df[order(hit_df$z_score,decreasing=T),]
+    }
     
     for(i in 1:length(hit_df$Target)){
       if(str_length(hit_df[i,"Target"]) > 30){
-        print(hit_df[i,"Target"])
         hit_df[i,"Target"] = str_c(as.character(str_sub(hit_df[i,"Target"], end = 18)), "\n", as.character(str_sub(hit_df[i,"Target"], start = 19, end = -1)))
-        print(hit_df[i,"Target"])
-        print("-----")
       }
     }
-    
 
     subDF <- subset(dat, dat$Cell==sampleID)
     subDF <- within(subDF, {
@@ -177,4 +180,4 @@ selectHit <- function(inFileName, outDirName, cutoff, drugListName){
 }
 
 # CODE Execution
-selectHit('/home/seonwhee/Bioinformatics/IRCR_HTS/AUC.csv','/home/seonwhee/Bioinformatics/IRCR_HTS/',-0.5,'/home/seonwhee/Bioinformatics/IRCR_HTS/170406_druglist_plot.txt')
+selectHit('/home/seonwhee/Bioinformatics/IRCR_HTS/Input_dir/AUC.csv','/home/seonwhee/Bioinformatics/IRCR_HTS/Output_dir',-0.5,'/home/seonwhee/Bioinformatics/IRCR_HTS/170530_druglist_plot.txt')
