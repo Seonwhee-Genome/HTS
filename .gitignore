@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+160707_parameterHit.R
+*.zip
+*.jpeg
+*_results.csv
