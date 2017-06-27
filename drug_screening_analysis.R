@@ -50,15 +50,19 @@ get_Control_stats <- function(inFile){
 }
 ############################################################
 matching_Drug_by_plate <- function(normDF1, normDF2, PANEL, rowFrom, rowTo){
-  outDirName = '/home/seonwhee/Bioinformatics/IRCR_HTS/'
+  outDirName = '/home/seonwhee/Bioinformatics/IRCR_HTS/Drug_dir'
   reoutDirName = outDirName
-  for (i in length(PANEL)){
+  for (i in 1:length(PANEL)){
+    print(i)
+    
     pair1 <- normDF1[get_Index(normDF1, rowFrom):get_Index(normDF1, rowTo),i] 
     pair2 <- normDF2[get_Index(normDF2, rowFrom):get_Index(normDF2, rowTo),i]
     drug.df <- data.frame(pair1, pair2, row.names = NULL)
     drugName <- PANEL[i]
+    print(drugName)
     colnames(drug.df) <- c(drugName, drugName)
     outFileName = sprintf('%s/%s.csv',outDirName,drugName)
+    print(outFileName)
     if (file.exists(outFileName)){
       out.df = read.csv(outFileName,header=T,check.names=F)
       out.df = cbind(out.df, drug.df)
@@ -102,17 +106,23 @@ GBM <- function(inFile1,  inFile2, plate)
 ####################################################################################################################
 ################################# Code Execution Part ###################################################
 cellName = 'MBT17_341T_M18'
-qcFileName = '/home/seonwhee/Bioinformatics/IRCR_HTS/QC.txt'
-inFile1 = data_Preprocess('/home/seonwhee/Bioinformatics/IRCR_HTS/3.csv')
-inFile2 = data_Preprocess('/home/seonwhee/Bioinformatics/IRCR_HTS/4.csv')
-inFile3 = data_Preprocess('/home/seonwhee/Bioinformatics/IRCR_HTS/1.csv')
-inFile4 = data_Preprocess('/home/seonwhee/Bioinformatics/IRCR_HTS/2.csv')
+qcFileName = '/home/seonwhee/Bioinformatics/IRCR_HTS/Drug_dir/QC.txt'
+inFile1 = data_Preprocess('/home/seonwhee/Bioinformatics/IRCR_HTS/Input_dir/3.csv')
+inFile2 = data_Preprocess('/home/seonwhee/Bioinformatics/IRCR_HTS/Input_dir/4.csv')
+inFile3 = data_Preprocess('/home/seonwhee/Bioinformatics/IRCR_HTS/Input_dir/1.csv')
+inFile4 = data_Preprocess('/home/seonwhee/Bioinformatics/IRCR_HTS/Input_dir/2.csv')
 
 GBM(inFile1, inFile2, 1)
 GBM(inFile3, inFile4, 2)
 qcDF = data.frame(get_Control_stats(inFile1), get_Control_stats(inFile2), get_Control_stats(inFile3),
                   get_Control_stats(inFile4))
-rownames(qcDF) <- c("CV", "DMSO(AVE)", "Z-Factor")
-colnames(qcDF) <- c("plate 1", "plate 2", "plate 3", "plate 4")
-View(qcDF)
+#rownames(qcDF) <- c("CV", "DMSO(AVE)", "Z-Factor")
+#colnames(qcDF) <- c("plate 1", "plate 2", "plate 3", "plate 4")
+
+qcMAT <- data.matrix(qcDF)
+qcVEC <- as.vector(t(qcMAT))
+QC_overall <- data.frame(t(qcVEC))
+rownames(QC_overall) <- cellName
+colnames(QC_overall) <- c("CV1", "CV2", "CV3", "CV4", "DMSO1", "DMSO2", "DMSO3", "DMSO4", "Z-factor1", "Z-factor2", "Z-factor3", "Z-factor4")
+View(QC_overall)
 write.table(qcDF, file=qcFileName, append=F, sep = "\t")
