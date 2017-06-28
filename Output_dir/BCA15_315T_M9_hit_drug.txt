@@ -1,0 +1,7 @@
+Drug	Target	z_score
+Vemurafenib	B-RafV600E	-1.41
+Dasatinib 	Bcr-Abl	-0.87
+LGK-974	PORCN	-0.86
+AZD4547	FGFR1/2/3	-0.79
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-0.66

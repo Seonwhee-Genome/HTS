@@ -1,0 +1,6 @@
+Drug	Target	z_score
+Dasatinib 	Bcr-Abl	-2.23
+Vemurafenib	B-RafV600E	-1.09
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-1.08
+Veliparib	PARP	-0.74
+Dacomitinib	EGFR	-0.73

@@ -1,0 +1,4 @@
+Drug	Target	z_score
+LGK-974	PORCN	-1.70
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-0.68

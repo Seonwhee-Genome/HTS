@@ -1,0 +1,5 @@
+Drug	Target	z_score
+GDC-0199 	Bcl-2	-1.58
+Neratinib	EGFR	-1.08
+Carfilzomib	Proteasome	-0.63
+LY2835219	CDK4/6	-0.51

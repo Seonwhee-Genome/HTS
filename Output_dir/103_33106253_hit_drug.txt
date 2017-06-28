@@ -1,0 +1,10 @@
+Drug	Target	z_score
+LDK378	ALK	-1.96
+Panobinostat 	HDAC	-1.67
+BYL719	PI3K	-1.21
+PF-04449913	HSP90	-0.90
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.84
+Carfilzomib	Proteasome	-0.78
+BEZ235	P3k/mTOR	-0.61
+Bosutinib	dual Src/Abl	-0.59

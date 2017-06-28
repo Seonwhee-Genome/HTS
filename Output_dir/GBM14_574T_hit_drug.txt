@@ -1,0 +1,4 @@
+Drug	Target	z_score
+PF-04449913	HSP90	-1.09
+Trametinib	MEK1/2	-0.89
+Cediranib 	VEGFR, Flt	-0.63

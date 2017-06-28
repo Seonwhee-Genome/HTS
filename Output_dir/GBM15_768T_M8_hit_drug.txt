@@ -1,0 +1,4 @@
+Drug	Target	z_score
+XL147	PI3K	-1.16
+Trametinib	MEK1/2	-0.70
+Panobinostat 	HDAC	-0.66

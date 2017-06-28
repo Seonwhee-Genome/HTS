@@ -1,0 +1,13 @@
+Drug	Target	z_score
+Vemurafenib	B-RafV600E	-1.18
+BYL719	PI3K	-1.08
+AUY922	HSP (e.g. HSP90)	-1.08
+Neratinib	EGFR	-1.02
+GDC-0199 	Bcl-2	-0.93
+XL765	P3k/mTOR	-0.85
+PF-04449913	HSP90	-0.79
+BEZ235	P3k/mTOR	-0.76
+CO-1686	EGFR	-0.70
+Crizotinib	Met, ALK	-0.66
+Carfilzomib	Proteasome	-0.59
+BKM120	PI3K	-0.58

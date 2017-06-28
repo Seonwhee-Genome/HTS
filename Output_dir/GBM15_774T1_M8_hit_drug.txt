@@ -1,0 +1,2 @@
+Drug	Target	z_score
+CO-1686	EGFR	-0.69

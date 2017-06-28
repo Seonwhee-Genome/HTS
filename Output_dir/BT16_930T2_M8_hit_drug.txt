@@ -1,0 +1,18 @@
+Drug	Target	z_score
+Afatinib	EGFR	-1.89
+Dacomitinib	EGFR	-1.88
+XL147	PI3K	-1.77
+AEE788	EGFR	-1.47
+Panobinostat 	HDAC	-1.28
+XL765	P3k/mTOR	-1.27
+LY2835219	CDK4/6	-1.21
+Canertinib	EGFR, HER2	-1.19
+PKI-587	P3k/mTOR	-1.02
+Gefitinib	EGFR	-0.99
+BMS-599626	EGFR	-0.84
+Everolimus	mTOR	-0.83
+Erlotinib	HER1/EGFR	-0.82
+Neratinib	EGFR	-0.79
+Lapatinib	EGFR	-0.70
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.64
+INCB28060	Met	-0.59

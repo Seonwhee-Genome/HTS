@@ -1,0 +1,9 @@
+Drug	Target	z_score
+PF-04449913	HSP90	-1.08
+Sunitinib	VEGFR2 and PDGFRb	-1.00
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.96
+Cediranib 	VEGFR, Flt	-0.85
+Vismodegib	Hedgehog/smothen	-0.79
+Panobinostat 	HDAC	-0.72
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.66
+Tivozanib	VEGFR, c-Kit, PDGFR	-0.55

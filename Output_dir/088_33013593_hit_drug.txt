@@ -1,0 +1,3 @@
+Drug	Target	z_score
+Bortezomib	Proteasome	-0.71
+XL147	PI3K	-0.50

@@ -1,0 +1,8 @@
+Drug	Target	z_score
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-1.53
+INCB28060	Met	-1.33
+XL765	P3k/mTOR	-1.13
+LGK-974	PORCN	-1.05
+PF-04449913	HSP90	-0.96
+Erismodegib	Smoothened	-0.86
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.83

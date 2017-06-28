@@ -1,0 +1,6 @@
+Drug	Target	z_score
+Sunitinib	VEGFR2 and PDGFRb	-1.31
+Palbociclib	CDK4/6	-1.08
+AZD2014	mTOR	-0.71
+LEE011	CDK4/6	-0.53
+Everolimus	mTOR	-0.51

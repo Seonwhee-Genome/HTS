@@ -1,0 +1,4 @@
+Drug	Target	z_score
+Sunitinib	VEGFR2 and PDGFRb	-0.71
+Palbociclib	CDK4/6	-0.70
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.63

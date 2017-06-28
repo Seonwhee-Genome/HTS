@@ -1,0 +1,5 @@
+Drug	Target	z_score
+PF-04449913	HSP90	-0.85
+Bortezomib	Proteasome	-0.64
+Vemurafenib	B-RafV600E	-0.60
+Carfilzomib	Proteasome	-0.50

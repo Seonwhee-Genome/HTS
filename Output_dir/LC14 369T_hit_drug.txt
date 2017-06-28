@@ -1,0 +1,19 @@
+Drug	Target	z_score
+CO-1686	EGFR	-2.58
+Sunitinib	VEGFR2 and PDGFRb	-1.47
+AZD2014	mTOR	-1.41
+Neratinib	EGFR	-1.33
+Imatinib 	v-Abl, c-Kit and PDGFR	-1.29
+Everolimus	mTOR	-1.27
+Tandutinib	FLT3 ,PDGFR, and KIT	-1.23
+PKI-587	P3k/mTOR	-1.20
+Lapatinib	EGFR	-1.19
+XL765	P3k/mTOR	-1.16
+Panobinostat 	HDAC	-0.95
+BEZ235	P3k/mTOR	-0.91
+Dacomitinib	EGFR	-0.80
+Afatinib	EGFR	-0.69
+Crizotinib	Met, ALK	-0.62
+Tivozanib	VEGFR, c-Kit, PDGFR	-0.61
+Carfilzomib	Proteasome	-0.59
+AZD5363	Akt1/2/3	-0.57

@@ -1,0 +1,9 @@
+Drug	Target	z_score
+Dasatinib 	Bcr-Abl	-1.00
+Panobinostat 	HDAC	-0.73
+Bortezomib	Proteasome	-0.66
+Vemurafenib	B-RafV600E	-0.64
+Carfilzomib	Proteasome	-0.62
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.56
+LDK378	ALK	-0.52
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.50

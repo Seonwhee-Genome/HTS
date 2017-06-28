@@ -1,0 +1,12 @@
+Drug	Target	z_score
+Dasatinib 	Bcr-Abl	-1.90
+XL147	PI3K	-1.63
+Nilotinib 	Bcr-Abl	-1.33
+Afatinib	EGFR	-1.07
+AEE788	EGFR	-1.04
+Dacomitinib	EGFR	-0.79
+Neratinib	EGFR	-0.73
+Vemurafenib	B-RafV600E	-0.67
+Erlotinib	HER1/EGFR	-0.64
+AZD2014	mTOR	-0.61
+Lapatinib	EGFR	-0.51

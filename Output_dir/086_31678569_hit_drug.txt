@@ -1,0 +1,7 @@
+Drug	Target	z_score
+BGJ398	FGFR1/2/3	-1.70
+AZD4547	FGFR1/2/3	-1.68
+Trametinib	MEK1/2	-0.91
+Dasatinib 	Bcr-Abl	-0.83
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-0.50

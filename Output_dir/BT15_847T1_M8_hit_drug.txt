@@ -1,0 +1,15 @@
+Drug	Target	z_score
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-3.72
+Panobinostat 	HDAC	-1.21
+GDC-0199 	Bcl-2	-0.97
+BMS-599626	EGFR	-0.96
+Erismodegib	Smoothened	-0.83
+Tivozanib	VEGFR, c-Kit, PDGFR	-0.82
+Vandetanib	VEGFR2	-0.81
+AZD5363	Akt1/2/3	-0.74
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.66
+Bosutinib	dual Src/Abl	-0.59
+Bortezomib	Proteasome	-0.58
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.56
+INCB28060	Met	-0.51

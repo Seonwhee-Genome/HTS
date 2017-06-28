@@ -1,0 +1,29 @@
+Drug	Target	z_score
+Ruxolitinib	JAK1/2	-2.83
+BGJ398	FGFR1/2/3	-2.29
+AZD4547	FGFR1/2/3	-2.25
+Selumetinib	MEK1	-1.92
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-1.57
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-1.31
+Vemurafenib	B-RafV600E	-1.23
+Gefitinib	EGFR	-1.20
+LDK378	ALK	-1.09
+Neratinib	EGFR	-0.99
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-0.92
+BKM120	PI3K	-0.87
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-0.82
+Bosutinib	dual Src/Abl	-0.82
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.79
+AEE788	EGFR	-0.75
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.70
+Canertinib	EGFR, HER2	-0.67
+BYL719	PI3K	-0.67
+Afatinib	EGFR	-0.63
+Erlotinib	HER1/EGFR	-0.59
+Sunitinib	VEGFR2 and PDGFRb	-0.58
+BMS-599626	EGFR	-0.55
+Dacomitinib	EGFR	-0.52

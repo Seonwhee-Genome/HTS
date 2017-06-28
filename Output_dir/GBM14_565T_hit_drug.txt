@@ -1,0 +1,14 @@
+Drug	Target	z_score
+LDK378	ALK	-1.49
+Panobinostat 	HDAC	-1.35
+AZD4547	FGFR1/2/3	-1.34
+Crizotinib	Met, ALK	-1.23
+Vismodegib	Hedgehog/smothen	-1.20
+Sunitinib	VEGFR2 and PDGFRb	-1.16
+AZD5363	Akt1/2/3	-1.05
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.85
+PF-04449913	HSP90	-0.81
+BGJ398	FGFR1/2/3	-0.76
+Cediranib 	VEGFR, Flt	-0.75
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.71
+Carfilzomib	Proteasome	-0.56

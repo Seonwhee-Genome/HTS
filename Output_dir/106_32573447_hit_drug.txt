@@ -1,0 +1,23 @@
+Drug	Target	z_score
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-4.49
+Cediranib 	VEGFR, Flt	-2.63
+Panobinostat 	HDAC	-2.42
+Dasatinib 	Bcr-Abl	-2.02
+BMS-599626	EGFR	-1.85
+Selumetinib	MEK1	-1.73
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-1.55
+BYL719	PI3K	-1.43
+Gefitinib	EGFR	-1.39
+AEE788	EGFR	-1.23
+LDK378	ALK	-1.23
+GDC-0199 	Bcl-2	-1.20
+Trametinib	MEK1/2	-1.12
+PF-04449913	HSP90	-1.09
+Tivozanib	VEGFR, c-Kit, PDGFR	-0.88
+Vemurafenib	B-RafV600E	-0.86
+Canertinib	EGFR, HER2	-0.77
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-0.70
+Afatinib	EGFR	-0.64
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.61

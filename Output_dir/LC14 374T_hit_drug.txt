@@ -1,0 +1,11 @@
+Drug	Target	z_score
+Tandutinib	FLT3 ,PDGFR, and KIT	-1.74
+Neratinib	EGFR	-1.41
+Sunitinib	VEGFR2 and PDGFRb	-1.12
+LY2835219	CDK4/6	-0.69
+Canertinib	EGFR, HER2	-0.66
+Dasatinib 	Bcr-Abl	-0.59
+CO-1686	EGFR	-0.56
+Crizotinib	Met, ALK	-0.53
+Bortezomib	Proteasome	-0.53
+Vandetanib	VEGFR2	-0.51

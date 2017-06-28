@@ -1,0 +1,14 @@
+Drug	Target	z_score
+Erismodegib	Smoothened	-1.44
+PKI-587	P3k/mTOR	-1.32
+INCB28060	Met	-1.29
+AZD5363	Akt1/2/3	-1.02
+LGK-974	PORCN	-1.01
+Everolimus	mTOR	-0.96
+AZD2014	mTOR	-0.89
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.86
+BEZ235	P3k/mTOR	-0.75
+Nilotinib 	Bcr-Abl	-0.59
+Afatinib	EGFR	-0.58
+Dacomitinib	EGFR	-0.57

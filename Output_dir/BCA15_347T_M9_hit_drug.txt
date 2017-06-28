@@ -1,0 +1,7 @@
+Drug	Target	z_score
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-1.11
+Sotrastaurin 	PKC	-1.08
+Bosutinib	dual Src/Abl	-0.63
+Dacomitinib	EGFR	-0.56
+Afatinib	EGFR	-0.53

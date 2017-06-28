@@ -1,0 +1,19 @@
+Drug	Target	z_score
+Vemurafenib	B-RafV600E	-1.90
+XL765	P3k/mTOR	-1.76
+BEZ235	P3k/mTOR	-0.97
+AZD2014	mTOR	-0.93
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.86
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.80
+Everolimus	mTOR	-0.76
+GDC-0199 	Bcl-2	-0.75
+AZD5363	Akt1/2/3	-0.69
+Afatinib	EGFR	-0.68
+BKM120	PI3K	-0.65
+Lapatinib	EGFR	-0.64
+BYL719	PI3K	-0.64
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.57
+Bortezomib	Proteasome	-0.55
+Dacomitinib	EGFR	-0.54
+CO-1686	EGFR	-0.51

@@ -1,0 +1,11 @@
+Drug	Target	z_score
+LDK378	ALK	-2.03
+Selumetinib	MEK1	-1.41
+Sunitinib	VEGFR2 and PDGFRb	-1.23
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-1.21
+Dasatinib 	Bcr-Abl	-1.18
+PKI-587	P3k/mTOR	-0.88
+Bosutinib	dual Src/Abl	-0.79
+Crizotinib	Met, ALK	-0.64
+AZD2014	mTOR	-0.56
+Cediranib 	VEGFR, Flt	-0.51

@@ -1,0 +1,2 @@
+Drug	Target	z_score
+Vemurafenib	B-RafV600E	-0.92

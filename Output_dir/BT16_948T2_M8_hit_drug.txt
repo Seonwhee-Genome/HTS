@@ -1,0 +1,6 @@
+Drug	Target	z_score
+AZD5363	Akt1/2/3	-1.31
+Nilotinib 	Bcr-Abl	-0.99
+PKI-587	P3k/mTOR	-0.70
+GDC-0199 	Bcl-2	-0.64
+Panobinostat 	HDAC	-0.50

@@ -1,0 +1,3 @@
+Drug	Target	z_score
+Erismodegib	Smoothened	-0.65
+Dasatinib 	Bcr-Abl	-0.53

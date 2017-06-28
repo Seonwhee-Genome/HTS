@@ -1,0 +1,20 @@
+Drug	Target	z_score
+AEE788	EGFR	-1.78
+Afatinib	EGFR	-1.52
+Dacomitinib	EGFR	-1.51
+Gefitinib	EGFR	-1.39
+Dasatinib 	Bcr-Abl	-1.36
+BKM120	PI3K	-1.21
+Erlotinib	HER1/EGFR	-1.09
+AZD5363	Akt1/2/3	-0.91
+BYL719	PI3K	-0.82
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.80
+Lapatinib	EGFR	-0.78
+Neratinib	EGFR	-0.76
+PKI-587	P3k/mTOR	-0.75
+AUY922	HSP (e.g. HSP90)	-0.66
+BMS-599626	EGFR	-0.65
+CO-1686	EGFR	-0.62
+Canertinib	EGFR, HER2	-0.61
+BEZ235	P3k/mTOR	-0.60

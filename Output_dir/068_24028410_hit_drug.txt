@@ -1,0 +1,18 @@
+Drug	Target	z_score
+Nilotinib 	Bcr-Abl	-1.24
+Veliparib	PARP	-1.23
+Bosutinib	dual Src/Abl	-1.03
+Crizotinib	Met, ALK	-1.02
+BYL719	PI3K	-1.00
+Sunitinib	VEGFR2 and PDGFRb	-1.00
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.82
+CO-1686	EGFR	-0.79
+Olaparib	PARP1/2	-0.72
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.71
+LDK378	ALK	-0.69
+GDC-0199 	Bcl-2	-0.66
+Carfilzomib	Proteasome	-0.65
+PF-04449913	HSP90	-0.65
+BEZ235	P3k/mTOR	-0.62
+BKM120	PI3K	-0.61

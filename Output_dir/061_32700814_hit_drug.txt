@@ -1,0 +1,7 @@
+Drug	Target	z_score
+AUY922	HSP (e.g. HSP90)	-1.01
+Trametinib	MEK1/2	-0.83
+Dasatinib 	Bcr-Abl	-0.58
+AZD4547	FGFR1/2/3	-0.57
+LDK378	ALK	-0.53
+Carfilzomib	Proteasome	-0.50

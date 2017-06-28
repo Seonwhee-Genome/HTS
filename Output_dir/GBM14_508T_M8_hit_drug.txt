@@ -1,0 +1,45 @@
+Drug	Target	z_score
+XL765	P3k/mTOR	-6.12
+PF-04449913	HSP90	-5.77
+INCB28060	Met	-5.63
+Tandutinib	FLT3 ,PDGFR, and KIT	-3.74
+Imatinib 	v-Abl, c-Kit and PDGFR	-3.72
+Erismodegib	Smoothened	-3.33
+LGK-974	PORCN	-3.02
+Crizotinib	Met, ALK	-2.91
+Vemurafenib	B-RafV600E	-2.71
+AZD5363	Akt1/2/3	-2.60
+Nilotinib 	Bcr-Abl	-2.55
+Palbociclib	CDK4/6	-2.54
+Sunitinib	VEGFR2 and PDGFRb	-2.39
+Olaparib	PARP1/2	-2.34
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-2.28
+LY2835219	CDK4/6	-2.22
+BMS-599626	EGFR	-2.07
+Lapatinib	EGFR	-2.03
+BGJ398	FGFR1/2/3	-1.92
+Gefitinib	EGFR	-1.89
+CO-1686	EGFR	-1.86
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-1.76
+LDK378	ALK	-1.69
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-1.66
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-1.61
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-1.52
+Bosutinib	dual Src/Abl	-1.45
+GDC-0199 	Bcl-2	-1.32
+Canertinib	EGFR, HER2	-1.17
+AEE788	EGFR	-1.16
+Erlotinib	HER1/EGFR	-1.10
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-1.04
+Neratinib	EGFR	-0.88
+BKM120	PI3K	-0.81
+AZD2014	mTOR	-0.76
+BYL719	PI3K	-0.69
+PKI-587	P3k/mTOR	-0.62
+Trametinib	MEK1/2	-0.55
+Panobinostat 	HDAC	-0.52

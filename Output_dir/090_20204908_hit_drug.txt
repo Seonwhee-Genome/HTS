@@ -1,0 +1,6 @@
+Drug	Target	z_score
+BYL719	PI3K	-1.09
+BKM120	PI3K	-0.88
+CO-1686	EGFR	-0.79
+PF-04449913	HSP90	-0.62
+Neratinib	EGFR	-0.59

@@ -1,0 +1,10 @@
+Drug	Target	z_score
+AZD5363	Akt1/2/3	-1.09
+Palbociclib	CDK4/6	-1.04
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.92
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.89
+Everolimus	mTOR	-0.87
+LEE011	CDK4/6	-0.72
+Olaparib	PARP1/2	-0.65
+AZD4547	FGFR1/2/3	-0.55
+Neratinib	EGFR	-0.53

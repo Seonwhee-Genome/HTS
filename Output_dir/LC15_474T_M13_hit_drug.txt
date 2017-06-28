@@ -1,0 +1,25 @@
+Drug	Target	z_score
+Gefitinib	EGFR	-4.27
+Erlotinib	HER1/EGFR	-3.82
+Canertinib	EGFR, HER2	-3.73
+CO-1686	EGFR	-3.45
+AEE788	EGFR	-3.29
+Vandetanib	VEGFR2	-3.24
+Veliparib	PARP	-3.03
+Nilotinib 	Bcr-Abl	-1.81
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-1.81
+BKM120	PI3K	-1.63
+Cediranib 	VEGFR, Flt	-1.41
+Everolimus	mTOR	-1.36
+PKI-587	P3k/mTOR	-1.36
+Dasatinib 	Bcr-Abl	-1.30
+Lapatinib	EGFR	-1.15
+BMS-599626	EGFR	-1.03
+Tivozanib	VEGFR, c-Kit, PDGFR	-1.01
+AZD2014	mTOR	-0.78
+XL147	PI3K	-0.66
+BEZ235	P3k/mTOR	-0.65
+Selumetinib	MEK1	-0.64
+Bortezomib	Proteasome	-0.52
+Carfilzomib	Proteasome	-0.50

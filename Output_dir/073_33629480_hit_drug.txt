@@ -1,0 +1,13 @@
+Drug	Target	z_score
+AZD4547	FGFR1/2/3	-2.10
+BGJ398	FGFR1/2/3	-1.97
+Trametinib	MEK1/2	-1.63
+Selumetinib	MEK1	-1.27
+Ruxolitinib	JAK1/2	-1.17
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.99
+Cediranib 	VEGFR, Flt	-0.94
+Vemurafenib	B-RafV600E	-0.85
+Gefitinib	EGFR	-0.75
+BMS-599626	EGFR	-0.60
+Afatinib	EGFR	-0.57

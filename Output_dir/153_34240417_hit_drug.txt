@@ -1,0 +1,4 @@
+Drug	Target	z_score
+Vemurafenib	B-RafV600E	-0.67
+Bortezomib	Proteasome	-0.54
+Dasatinib 	Bcr-Abl	-0.51

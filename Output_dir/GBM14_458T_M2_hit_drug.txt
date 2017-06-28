@@ -1,0 +1,2 @@
+Drug	Target	z_score
+Imatinib 	v-Abl, c-Kit and PDGFR	-1.12

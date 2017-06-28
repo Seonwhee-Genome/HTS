@@ -1,0 +1,23 @@
+Drug	Target	z_score
+Selumetinib	MEK1	-1.28
+Trametinib	MEK1/2	-1.11
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-0.98
+AUY922	HSP (e.g. HSP90)	-0.97
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-0.88
+Crizotinib	Met, ALK	-0.87
+LDK378	ALK	-0.85
+Dabrafenib	BRAFV600	-0.81
+BYL719	PI3K	-0.79
+Carfilzomib	Proteasome	-0.77
+AZD4547	FGFR1/2/3	-0.76
+PKI-587	P3k/mTOR	-0.74
+Bortezomib	Proteasome	-0.69
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.67
+CO-1686	EGFR	-0.63
+AZD5363	Akt1/2/3	-0.59
+BGJ398	FGFR1/2/3	-0.56
+GDC-0199 	Bcl-2	-0.53
+XL765	P3k/mTOR	-0.51

@@ -1,0 +1,5 @@
+Drug	Target	z_score
+PF-04449913	HSP90	-1.37
+Vismodegib	Hedgehog/smothen	-0.80
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.65
+Nilotinib 	Bcr-Abl	-0.55

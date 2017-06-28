@@ -1,0 +1,6 @@
+Drug	Target	z_score
+Vemurafenib	B-RafV600E	-1.09
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-0.86
+Canertinib	EGFR, HER2	-0.58
+Carfilzomib	Proteasome	-0.54

@@ -1,0 +1,6 @@
+Drug	Target	z_score
+Neratinib	EGFR	-1.06
+Vemurafenib	B-RafV600E	-0.58
+Nilotinib 	Bcr-Abl	-0.55
+PKI-587	P3k/mTOR	-0.54
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.54

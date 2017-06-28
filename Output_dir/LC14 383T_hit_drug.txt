@@ -1,0 +1,5 @@
+Drug	Target	z_score
+Cediranib 	VEGFR, Flt	-0.77
+AZD4547	FGFR1/2/3	-0.54
+Panobinostat 	HDAC	-0.52
+Bortezomib	Proteasome	-0.50

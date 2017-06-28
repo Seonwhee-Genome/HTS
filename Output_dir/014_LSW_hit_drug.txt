@@ -1,0 +1,22 @@
+Drug	Target	z_score
+BKM120	PI3K	-2.46
+Erlotinib	HER1/EGFR	-2.30
+BYL719	PI3K	-2.27
+BEZ235	P3k/mTOR	-1.98
+AZD2014	mTOR	-1.94
+PKI-587	P3k/mTOR	-1.68
+Neratinib	EGFR	-1.49
+AZD5363	Akt1/2/3	-1.41
+CO-1686	EGFR	-1.36
+Panobinostat 	HDAC	-1.19
+LY2835219	CDK4/6	-1.07
+GDC-0199 	Bcl-2	-0.99
+Canertinib	EGFR, HER2	-0.94
+LDK378	ALK	-0.87
+Lapatinib	EGFR	-0.74
+Bortezomib	Proteasome	-0.71
+Gefitinib	EGFR	-0.68
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.64
+Carfilzomib	Proteasome	-0.64
+Dacomitinib	EGFR	-0.61

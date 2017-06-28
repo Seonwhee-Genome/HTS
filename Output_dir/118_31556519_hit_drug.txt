@@ -1,0 +1,9 @@
+Drug	Target	z_score
+LDK378	ALK	-2.11
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-1.18
+BYL719	PI3K	-0.85
+Sunitinib	VEGFR2 and PDGFRb	-0.84
+Crizotinib	Met, ALK	-0.75
+BKM120	PI3K	-0.71
+Bosutinib	dual Src/Abl	-0.70

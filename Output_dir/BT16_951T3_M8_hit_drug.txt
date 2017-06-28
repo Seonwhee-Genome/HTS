@@ -1,0 +1,4 @@
+Drug	Target	z_score
+GDC-0199 	Bcl-2	-0.68
+PKI-587	P3k/mTOR	-0.56
+Neratinib	EGFR	-0.53

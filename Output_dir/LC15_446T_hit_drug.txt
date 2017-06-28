@@ -1,0 +1,25 @@
+Drug	Target	z_score
+LEE011	CDK4/6	-2.02
+Vemurafenib	B-RafV600E	-1.92
+Olaparib	PARP1/2	-1.55
+Tivozanib	VEGFR, c-Kit, PDGFR	-1.34
+Dasatinib 	Bcr-Abl	-1.29
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-1.20
+BKM120	PI3K	-1.11
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-1.08
+Tandutinib	FLT3 ,PDGFR, and KIT	-1.02
+AZD4547	FGFR1/2/3	-0.98
+BMS-599626	EGFR	-0.95
+Vandetanib	VEGFR2	-0.92
+LDK378	ALK	-0.91
+Crizotinib	Met, ALK	-0.81
+Erismodegib	Smoothened	-0.81
+Cediranib 	VEGFR, Flt	-0.72
+Palbociclib	CDK4/6	-0.70
+AUY922	HSP (e.g. HSP90)	-0.70
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.66
+BYL719	PI3K	-0.52
+BGJ398	FGFR1/2/3	-0.52
+AEE788	EGFR	-0.51
+LGK-974	PORCN	-0.51

@@ -1,0 +1,4 @@
+Drug	Target	z_score
+Bosutinib	dual Src/Abl	-0.75
+Carfilzomib	Proteasome	-0.69
+BKM120	PI3K	-0.52

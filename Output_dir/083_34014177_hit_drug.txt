@@ -1,0 +1,10 @@
+Drug	Target	z_score
+BYL719	PI3K	-1.33
+LDK378	ALK	-0.87
+AZD2014	mTOR	-0.85
+BEZ235	P3k/mTOR	-0.76
+AZD5363	Akt1/2/3	-0.66
+Lapatinib	EGFR	-0.55
+Everolimus	mTOR	-0.53
+Panobinostat 	HDAC	-0.52
+Erlotinib	HER1/EGFR	-0.51

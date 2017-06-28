@@ -1,0 +1,7 @@
+Drug	Target	z_score
+AUY922	HSP (e.g. HSP90)	-1.02
+BYL719	PI3K	-0.86
+Erismodegib	Smoothened	-0.80
+PF-04449913	HSP90	-0.70
+BKM120	PI3K	-0.56
+GDC-0199 	Bcl-2	-0.52

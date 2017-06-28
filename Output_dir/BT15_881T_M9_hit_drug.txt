@@ -1,0 +1,10 @@
+Drug	Target	z_score
+Cediranib 	VEGFR, Flt	-1.29
+BGJ398	FGFR1/2/3	-0.92
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.90
+LY2835219	CDK4/6	-0.67
+Dasatinib 	Bcr-Abl	-0.67
+INCB28060	Met	-0.61
+Erismodegib	Smoothened	-0.58
+AZD4547	FGFR1/2/3	-0.52

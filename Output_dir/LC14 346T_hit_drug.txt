@@ -1,0 +1,8 @@
+Drug	Target	z_score
+Dasatinib 	Bcr-Abl	-1.31
+AZD4547	FGFR1/2/3	-1.00
+BGJ398	FGFR1/2/3	-0.72
+LY2835219	CDK4/6	-0.70
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-0.65
+Tivozanib	VEGFR, c-Kit, PDGFR	-0.56

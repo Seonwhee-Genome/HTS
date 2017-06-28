@@ -1,0 +1,7 @@
+Drug	Target	z_score
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-2.58
+Crizotinib	Met, ALK	-1.41
+LDK378	ALK	-1.08
+Bortezomib	Proteasome	-0.85
+Carfilzomib	Proteasome	-0.68

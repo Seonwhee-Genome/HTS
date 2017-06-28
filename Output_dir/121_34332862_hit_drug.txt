@@ -1,0 +1,11 @@
+Drug	Target	z_score
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-2.97
+Crizotinib	Met, ALK	-0.81
+Bortezomib	Proteasome	-0.78
+BKM120	PI3K	-0.73
+Dasatinib 	Bcr-Abl	-0.73
+BYL719	PI3K	-0.70
+Carfilzomib	Proteasome	-0.68
+Canertinib	EGFR, HER2	-0.52
+Trametinib	MEK1/2	-0.52

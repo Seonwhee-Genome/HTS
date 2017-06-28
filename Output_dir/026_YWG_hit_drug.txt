@@ -1,0 +1,4 @@
+Drug	Target	z_score
+AUY922	HSP (e.g. HSP90)	-0.84
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.77
+AZD4547	FGFR1/2/3	-0.62

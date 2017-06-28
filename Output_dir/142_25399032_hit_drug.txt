@@ -1,0 +1,8 @@
+Drug	Target	z_score
+PF-04449913	HSP90	-1.05
+BYL719	PI3K	-0.86
+Bosutinib	dual Src/Abl	-0.80
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.71
+Carfilzomib	Proteasome	-0.57
+GDC-0199 	Bcl-2	-0.52

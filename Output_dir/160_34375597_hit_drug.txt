@@ -1,0 +1,4 @@
+Drug	Target	z_score
+Vemurafenib	B-RafV600E	-0.82
+GDC-0199 	Bcl-2	-0.63
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.54

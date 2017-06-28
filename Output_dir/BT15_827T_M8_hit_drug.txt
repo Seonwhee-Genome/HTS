@@ -1,0 +1,24 @@
+Drug	Target	z_score
+Selumetinib	MEK1	-1.71
+Panobinostat 	HDAC	-1.46
+Trametinib	MEK1/2	-1.29
+Everolimus	mTOR	-1.24
+BGJ398	FGFR1/2/3	-1.13
+GDC-0199 	Bcl-2	-1.10
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-0.90
+Crizotinib	Met, ALK	-0.90
+LY2835219	CDK4/6	-0.87
+AZD4547	FGFR1/2/3	-0.87
+Olaparib	PARP1/2	-0.81
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.79
+Erismodegib	Smoothened	-0.75
+LDK378	ALK	-0.75
+Cediranib 	VEGFR, Flt	-0.74
+Nilotinib 	Bcr-Abl	-0.68
+Bortezomib	Proteasome	-0.66
+AZD5363	Akt1/2/3	-0.60
+Canertinib	EGFR, HER2	-0.57
+PKI-587	P3k/mTOR	-0.57
+BKM120	PI3K	-0.52

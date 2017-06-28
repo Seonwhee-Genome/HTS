@@ -1,0 +1,6 @@
+Drug	Target	z_score
+XL147	PI3K	-1.08
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-1.05
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.72
+Erismodegib	Smoothened	-0.60

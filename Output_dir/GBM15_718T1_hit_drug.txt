@@ -1,0 +1,16 @@
+Drug	Target	z_score
+Nilotinib 	Bcr-Abl	-1.57
+Tivozanib	VEGFR, c-Kit, PDGFR	-1.56
+Vandetanib	VEGFR2	-1.23
+BGJ398	FGFR1/2/3	-0.93
+Sunitinib	VEGFR2 and PDGFRb	-0.86
+Cediranib 	VEGFR, Flt	-0.74
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.73
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.73
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-0.60
+AZD2014	mTOR	-0.59
+AZD4547	FGFR1/2/3	-0.59
+Everolimus	mTOR	-0.57
+Palbociclib	CDK4/6	-0.56
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.50

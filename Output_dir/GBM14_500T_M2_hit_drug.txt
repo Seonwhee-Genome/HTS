@@ -1,0 +1,6 @@
+Drug	Target	z_score
+Everolimus	mTOR	-1.36
+AZD5363	Akt1/2/3	-1.04
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.96
+BEZ235	P3k/mTOR	-0.65
+Panobinostat 	HDAC	-0.64

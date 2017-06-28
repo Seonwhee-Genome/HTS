@@ -1,0 +1,11 @@
+Drug	Target	z_score
+Sunitinib	VEGFR2 and PDGFRb	-2.33
+PKI-587	P3k/mTOR	-1.59
+Panobinostat 	HDAC	-1.42
+AZD2014	mTOR	-1.22
+Tivozanib	VEGFR, c-Kit, PDGFR	-1.22
+Tandutinib	FLT3 ,PDGFR, and KIT	-1.02
+Everolimus	mTOR	-0.87
+BEZ235	P3k/mTOR	-0.84
+Bortezomib	Proteasome	-0.80
+Cediranib 	VEGFR, Flt	-0.58

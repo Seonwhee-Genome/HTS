@@ -1,0 +1,30 @@
+Drug	Target	z_score
+Vismodegib	Hedgehog/smothen	-4.42
+Afatinib	EGFR	-2.65
+Dacomitinib	EGFR	-2.51
+Vandetanib	VEGFR2	-2.45
+INCB28060	Met	-2.02
+Bosutinib	dual Src/Abl	-1.83
+Olaparib	PARP1/2	-1.74
+AZD5363	Akt1/2/3	-1.63
+PF-04449913	HSP90	-1.55
+LEE011	CDK4/6	-1.53
+Palbociclib	CDK4/6	-1.45
+AEE788	EGFR	-1.39
+Panobinostat 	HDAC	-1.37
+Neratinib	EGFR	-1.23
+AZD2014	mTOR	-1.17
+Trametinib	MEK1/2	-1.03
+Erismodegib	Smoothened	-0.96
+LDK378	ALK	-0.95
+Gefitinib	EGFR	-0.91
+BEZ235	P3k/mTOR	-0.90
+AUY922	HSP (e.g. HSP90)	-0.90
+PKI-587	P3k/mTOR	-0.86
+BKM120	PI3K	-0.69
+Sunitinib	VEGFR2 and PDGFRb	-0.67
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.60
+Bortezomib	Proteasome	-0.57
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.56
+Nilotinib 	Bcr-Abl	-0.51

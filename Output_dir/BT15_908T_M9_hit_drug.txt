@@ -1,0 +1,10 @@
+Drug	Target	z_score
+Erismodegib	Smoothened	-1.49
+LGK-974	PORCN	-1.48
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-0.91
+AZD4547	FGFR1/2/3	-0.87
+Lapatinib	EGFR	-0.74
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.72
+Vemurafenib	B-RafV600E	-0.70
+Dasatinib 	Bcr-Abl	-0.65

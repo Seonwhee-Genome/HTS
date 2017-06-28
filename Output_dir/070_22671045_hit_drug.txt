@@ -1,0 +1,4 @@
+Drug	Target	z_score
+GDC-0199 	Bcl-2	-1.63
+BYL719	PI3K	-1.01
+Trametinib	MEK1/2	-0.96

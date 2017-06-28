@@ -1,0 +1,2 @@
+Drug	Target	z_score
+PF-04449913	HSP90	-0.61

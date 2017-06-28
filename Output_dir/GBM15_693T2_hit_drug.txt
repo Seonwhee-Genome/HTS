@@ -1,0 +1,5 @@
+Drug	Target	z_score
+XL147	PI3K	-2.45
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-1.02
+Dabrafenib	BRAFV600	-0.72

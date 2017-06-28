@@ -1,0 +1,6 @@
+Drug	Target	z_score
+AZD4547	FGFR1/2/3	-2.37
+BGJ398	FGFR1/2/3	-2.11
+BYL719	PI3K	-1.97
+BKM120	PI3K	-1.20
+Lapatinib	EGFR	-0.86

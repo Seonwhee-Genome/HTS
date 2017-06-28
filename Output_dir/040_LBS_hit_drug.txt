@@ -1,0 +1,7 @@
+Drug	Target	z_score
+Erlotinib	HER1/EGFR	-1.15
+BYL719	PI3K	-1.06
+Bortezomib	Proteasome	-0.73
+LDK378	ALK	-0.73
+BKM120	PI3K	-0.58
+PF-04449913	HSP90	-0.53

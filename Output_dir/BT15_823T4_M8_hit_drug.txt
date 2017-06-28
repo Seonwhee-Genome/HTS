@@ -1,0 +1,9 @@
+Drug	Target	z_score
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-3.59
+Panobinostat 	HDAC	-2.41
+Palbociclib	CDK4/6	-1.25
+AZD5363	Akt1/2/3	-0.95
+LDK378	ALK	-0.83
+Crizotinib	Met, ALK	-0.81
+Canertinib	EGFR, HER2	-0.70
+XL147	PI3K	-0.65

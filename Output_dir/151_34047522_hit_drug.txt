@@ -1,0 +1,9 @@
+Drug	Target	z_score
+PF-04449913	HSP90	-1.71
+Dasatinib 	Bcr-Abl	-1.07
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-0.96
+Bosutinib	dual Src/Abl	-0.86
+Crizotinib	Met, ALK	-0.78
+Tivozanib	VEGFR, c-Kit, PDGFR	-0.71
+GDC-0199 	Bcl-2	-0.70

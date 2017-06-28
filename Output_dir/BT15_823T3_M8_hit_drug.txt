@@ -1,0 +1,12 @@
+Drug	Target	z_score
+Palbociclib	CDK4/6	-1.76
+LEE011	CDK4/6	-1.51
+AZD5363	Akt1/2/3	-1.40
+PKI-587	P3k/mTOR	-1.13
+LY2835219	CDK4/6	-0.95
+Bortezomib	Proteasome	-0.81
+Everolimus	mTOR	-0.79
+Canertinib	EGFR, HER2	-0.72
+XL147	PI3K	-0.72
+BEZ235	P3k/mTOR	-0.54
+Olaparib	PARP1/2	-0.53

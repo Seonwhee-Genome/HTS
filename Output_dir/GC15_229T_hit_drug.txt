@@ -1,0 +1,9 @@
+Drug	Target	z_score
+BYL719	PI3K	-0.78
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-0.78
+Bosutinib	dual Src/Abl	-0.72
+Erismodegib	Smoothened	-0.72
+Carfilzomib	Proteasome	-0.71
+Lapatinib	EGFR	-0.60
+AZD4547	FGFR1/2/3	-0.53

@@ -1,0 +1,7 @@
+Drug	Target	z_score
+PF-04449913	HSP90	-1.49
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.97
+LY2835219	CDK4/6	-0.55
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.54
+Cediranib 	VEGFR, Flt	-0.54
+INCB28060	Met	-0.54

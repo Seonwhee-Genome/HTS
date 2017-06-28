@@ -1,0 +1,18 @@
+Drug	Target	z_score
+Neratinib	EGFR	-2.16
+AZD5363	Akt1/2/3	-2.12
+CO-1686	EGFR	-2.06
+AZD2014	mTOR	-1.57
+Tandutinib	FLT3 ,PDGFR, and KIT	-1.47
+Cediranib 	VEGFR, Flt	-1.29
+Vandetanib	VEGFR2	-1.16
+PKI-587	P3k/mTOR	-1.11
+Imatinib 	v-Abl, c-Kit and PDGFR	-1.01
+BKM120	PI3K	-1.00
+Trametinib	MEK1/2	-0.93
+Canertinib	EGFR, HER2	-0.85
+BYL719	PI3K	-0.81
+Gefitinib	EGFR	-0.80
+Erlotinib	HER1/EGFR	-0.70
+BEZ235	P3k/mTOR	-0.58
+Panobinostat 	HDAC	-0.55

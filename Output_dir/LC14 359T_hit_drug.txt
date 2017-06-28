@@ -1,0 +1,19 @@
+Drug	Target	z_score
+Dasatinib 	Bcr-Abl	-1.78
+Dabrafenib	BRAFV600	-1.51
+BGJ398	FGFR1/2/3	-1.28
+Tivozanib	VEGFR, c-Kit, PDGFR	-1.24
+Bosutinib	dual Src/Abl	-1.07
+Cediranib 	VEGFR, Flt	-1.04
+Trametinib	MEK1/2	-1.01
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-0.99
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.88
+Crizotinib	Met, ALK	-0.85
+Bortezomib	Proteasome	-0.85
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.84
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-0.66
+AEE788	EGFR	-0.59
+AZD4547	FGFR1/2/3	-0.57

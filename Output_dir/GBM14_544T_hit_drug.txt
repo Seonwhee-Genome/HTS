@@ -1,0 +1,15 @@
+Drug	Target	z_score
+Sunitinib	VEGFR2 and PDGFRb	-1.01
+Tivozanib	VEGFR, c-Kit, PDGFR	-0.95
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.84
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.83
+Neratinib	EGFR	-0.82
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.78
+Selumetinib	MEK1	-0.72
+Dabrafenib	BRAFV600	-0.71
+Panobinostat 	HDAC	-0.55
+Crizotinib	Met, ALK	-0.54
+Palbociclib	CDK4/6	-0.52
+BGJ398	FGFR1/2/3	-0.51

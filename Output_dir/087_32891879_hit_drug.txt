@@ -1,0 +1,17 @@
+Drug	Target	z_score
+PF-04449913	HSP90	-3.01
+BKM120	PI3K	-1.85
+CO-1686	EGFR	-1.83
+BEZ235	P3k/mTOR	-1.62
+BYL719	PI3K	-1.57
+AZD2014	mTOR	-1.32
+LDK378	ALK	-1.31
+Lapatinib	EGFR	-1.27
+AZD5363	Akt1/2/3	-1.07
+Canertinib	EGFR, HER2	-1.04
+Neratinib	EGFR	-1.03
+Bosutinib	dual Src/Abl	-0.84
+Bortezomib	Proteasome	-0.81
+LY2835219	CDK4/6	-0.70
+Panobinostat 	HDAC	-0.70
+Sunitinib	VEGFR2 and PDGFRb	-0.60

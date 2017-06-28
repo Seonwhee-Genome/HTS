@@ -1,0 +1,2 @@
+Drug	Target	z_score
+AUY922	HSP (e.g. HSP90)	-0.91

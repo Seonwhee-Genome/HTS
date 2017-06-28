@@ -1,0 +1,7 @@
+Drug	Target	z_score
+AUY922	HSP (e.g. HSP90)	-1.08
+Vemurafenib	B-RafV600E	-1.05
+Bosutinib	dual Src/Abl	-0.86
+Bortezomib	Proteasome	-0.63
+Carfilzomib	Proteasome	-0.57
+BYL719	PI3K	-0.52

@@ -1,0 +1,9 @@
+Drug	Target	z_score
+BYL719	PI3K	-1.68
+PKI-587	P3k/mTOR	-1.63
+AZD2014	mTOR	-1.43
+BEZ235	P3k/mTOR	-1.04
+BKM120	PI3K	-1.02
+Erlotinib	HER1/EGFR	-1.00
+CO-1686	EGFR	-0.95
+Panobinostat 	HDAC	-0.61

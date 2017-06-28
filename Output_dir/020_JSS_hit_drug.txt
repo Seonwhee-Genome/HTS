@@ -1,0 +1,32 @@
+Drug	Target	z_score
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-1.78
+Everolimus	mTOR	-1.75
+PKI-587	P3k/mTOR	-1.71
+AZD5363	Akt1/2/3	-1.47
+Panobinostat 	HDAC	-1.47
+Tivozanib	VEGFR, c-Kit, PDGFR	-1.45
+Palbociclib	CDK4/6	-1.45
+AZD4547	FGFR1/2/3	-1.45
+BEZ235	P3k/mTOR	-1.39
+Nilotinib 	Bcr-Abl	-1.27
+BGJ398	FGFR1/2/3	-1.25
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-1.23
+LEE011	CDK4/6	-1.17
+Erlotinib	HER1/EGFR	-1.09
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-1.07
+AZD2014	mTOR	-1.05
+CO-1686	EGFR	-1.02
+GDC-0199 	Bcl-2	-0.95
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-0.90
+AUY922	HSP (e.g. HSP90)	-0.89
+Bortezomib	Proteasome	-0.82
+Trametinib	MEK1/2	-0.80
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-0.78
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.71
+Sotrastaurin 	PKC	-0.68
+BKM120	PI3K	-0.60
+XL147	PI3K	-0.57
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.52

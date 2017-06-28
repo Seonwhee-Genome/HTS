@@ -1,0 +1,10 @@
+Drug	Target	z_score
+Ruxolitinib	JAK1/2	-1.27
+Tandutinib	FLT3 ,PDGFR, and KIT	-1.24
+Dabrafenib	BRAFV600	-1.15
+Nilotinib 	Bcr-Abl	-0.97
+PF-04449913	HSP90	-0.94
+XL147	PI3K	-0.93
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.78
+INCB28060	Met	-0.63
+Vemurafenib	B-RafV600E	-0.54

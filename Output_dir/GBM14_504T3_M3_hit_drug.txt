@@ -1,0 +1,8 @@
+Drug	Target	z_score
+Tivozanib	VEGFR, c-Kit, PDGFR	-1.01
+AZD4547	FGFR1/2/3	-1.01
+Dasatinib 	Bcr-Abl	-0.93
+PF-04449913	HSP90	-0.66
+Cediranib 	VEGFR, Flt	-0.63
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.63
+BGJ398	FGFR1/2/3	-0.63

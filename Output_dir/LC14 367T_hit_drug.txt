@@ -1,0 +1,10 @@
+Drug	Target	z_score
+Tandutinib	FLT3 ,PDGFR, and KIT	-1.05
+PF-04449913	HSP90	-0.83
+Cediranib 	VEGFR, Flt	-0.80
+Dasatinib 	Bcr-Abl	-0.71
+Bortezomib	Proteasome	-0.64
+Neratinib	EGFR	-0.62
+Tivozanib	VEGFR, c-Kit, PDGFR	-0.57
+Crizotinib	Met, ALK	-0.54
+BGJ398	FGFR1/2/3	-0.51

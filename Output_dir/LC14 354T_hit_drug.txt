@@ -1,0 +1,17 @@
+Drug	Target	z_score
+Vemurafenib	B-RafV600E	-1.69
+AZD4547	FGFR1/2/3	-1.55
+BGJ398	FGFR1/2/3	-1.39
+Cediranib 	VEGFR, Flt	-1.20
+AUY922	HSP (e.g. HSP90)	-1.00
+Crizotinib	Met, ALK	-0.77
+Dasatinib 	Bcr-Abl	-0.76
+LGK-974	PORCN	-0.73
+Tivozanib	VEGFR, c-Kit, PDGFR	-0.71
+Panobinostat 	HDAC	-0.68
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.58
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-0.57
+Bortezomib	Proteasome	-0.52
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.51

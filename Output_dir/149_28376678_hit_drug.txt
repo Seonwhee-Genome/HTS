@@ -1,0 +1,3 @@
+Drug	Target	z_score
+INCB28060	Met	-1.84
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.72

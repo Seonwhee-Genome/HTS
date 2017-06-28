@@ -1,0 +1,18 @@
+Drug	Target	z_score
+Vemurafenib	B-RafV600E	-2.29
+Imatinib 	v-Abl, c-Kit and PDGFR	-1.77
+Lapatinib	EGFR	-1.69
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-1.51
+BEZ235	P3k/mTOR	-1.39
+Olaparib	PARP1/2	-1.31
+BMS-599626	EGFR	-1.17
+Palbociclib	CDK4/6	-1.11
+BYL719	PI3K	-1.06
+AZD2014	mTOR	-0.92
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.85
+LGK-974	PORCN	-0.72
+Erismodegib	Smoothened	-0.70
+BKM120	PI3K	-0.64
+Carfilzomib	Proteasome	-0.61
+Bortezomib	Proteasome	-0.60
+BGJ398	FGFR1/2/3	-0.50

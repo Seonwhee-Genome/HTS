@@ -1,0 +1,10 @@
+Drug	Target	z_score
+LDK378	ALK	-1.62
+Sunitinib	VEGFR2 and PDGFRb	-1.44
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.99
+Dabrafenib	BRAFV600	-0.97
+BYL719	PI3K	-0.69
+Palbociclib	CDK4/6	-0.68
+BKM120	PI3K	-0.63
+Bosutinib	dual Src/Abl	-0.59
+AZD2014	mTOR	-0.52

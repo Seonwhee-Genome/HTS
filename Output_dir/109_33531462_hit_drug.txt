@@ -1,0 +1,5 @@
+Drug	Target	z_score
+Trametinib	MEK1/2	-0.78
+BYL719	PI3K	-0.69
+Vemurafenib	B-RafV600E	-0.51
+GDC-0199 	Bcl-2	-0.50

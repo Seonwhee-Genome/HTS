@@ -1,0 +1,8 @@
+Drug	Target	z_score
+Erismodegib	Smoothened	-0.96
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.63
+LY2835219	CDK4/6	-0.61
+XL147	PI3K	-0.58
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.56
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-0.51

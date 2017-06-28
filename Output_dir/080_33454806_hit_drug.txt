@@ -1,0 +1,2 @@
+Drug	Target	z_score
+Ruxolitinib	JAK1/2	-0.61

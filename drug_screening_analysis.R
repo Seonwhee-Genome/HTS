@@ -105,24 +105,54 @@ GBM <- function(inFile1,  inFile2, plate)
 }
 ####################################################################################################################
 ################################# Code Execution Part ###################################################
-cellName = 'MBT17_341T_M18'
-qcFileName = '/home/seonwhee/Bioinformatics/IRCR_HTS/Drug_dir/QC.txt'
-inFile1 = data_Preprocess('/home/seonwhee/Bioinformatics/IRCR_HTS/Input_dir/3.csv')
-inFile2 = data_Preprocess('/home/seonwhee/Bioinformatics/IRCR_HTS/Input_dir/4.csv')
-inFile3 = data_Preprocess('/home/seonwhee/Bioinformatics/IRCR_HTS/Input_dir/1.csv')
-inFile4 = data_Preprocess('/home/seonwhee/Bioinformatics/IRCR_HTS/Input_dir/2.csv')
 
-GBM(inFile1, inFile2, 1)
-GBM(inFile3, inFile4, 2)
-qcDF = data.frame(get_Control_stats(inFile1), get_Control_stats(inFile2), get_Control_stats(inFile3),
-                  get_Control_stats(inFile4))
-#rownames(qcDF) <- c("CV", "DMSO(AVE)", "Z-Factor")
-#colnames(qcDF) <- c("plate 1", "plate 2", "plate 3", "plate 4")
 
-qcMAT <- data.matrix(qcDF)
-qcVEC <- as.vector(t(qcMAT))
-QC_overall <- data.frame(t(qcVEC))
-rownames(QC_overall) <- cellName
-colnames(QC_overall) <- c("CV1", "CV2", "CV3", "CV4", "DMSO1", "DMSO2", "DMSO3", "DMSO4", "Z-factor1", "Z-factor2", "Z-factor3", "Z-factor4")
-View(QC_overall)
-write.table(qcDF, file=qcFileName, append=F, sep = "\t")
+
+dirName= '/home/seonwhee/Bioinformatics/IRCR_HTS/Raw_data'
+fileDirs = dir(dirName)
+index = 1
+for (fileDir in fileDirs){
+  fileList = dir(sprintf('%s/%s',dirName,fileDir))
+  #csv_filelist = fileList[grep('^[1-4]{1}.csv',fileList)]
+  
+  if (length(fileList)==4){
+    
+    cellName = fileDir
+    qcFileName = '/home/seonwhee/Bioinformatics/IRCR_HTS/Drug_dir/QC.txt'
+    inFile1 = data_Preprocess(sprintf('%s/%s/%s',dirName,fileDir,fileList[3]))
+    inFile2 = data_Preprocess(sprintf('%s/%s/%s',dirName,fileDir,fileList[4]))
+    inFile3 = data_Preprocess(sprintf('%s/%s/%s',dirName,fileDir,fileList[1]))
+    inFile4 = data_Preprocess(sprintf('%s/%s/%s',dirName,fileDir,fileList[2]))
+    
+    GBM(inFile1, inFile2, 1)
+    GBM(inFile3, inFile4, 2)
+    qcDF = data.frame(get_Control_stats(inFile1), get_Control_stats(inFile2), get_Control_stats(inFile3),
+                      get_Control_stats(inFile4))
+    
+    qcMAT <- data.matrix(qcDF)
+    qcVEC <- as.vector(t(qcMAT))
+    qcDF <- data.frame(t(qcVEC))
+    rownames(qcDF) <- cellName
+    colnames(qcDF) <- c("CV1", "CV2", "CV3", "CV4", "DMSO1", "DMSO2", "DMSO3", "DMSO4", "Z-factor1", "Z-factor2", "Z-factor3", "Z-factor4")
+    View(qcDF)
+    #QC_overall <- qcDF
+    if (index == 1){
+      QC_overall <- qcDF
+    }
+    else{
+      QC_overall <- rbind(QC_overall, qcDF)
+    }
+    
+    index = index + 1
+    View(QC_overall)
+    write.table(QC_overall, file=qcFileName, append=F, sep = "\t")
+  }
+  
+}
+#if (index == 1){
+#QC_overall <- qcDF
+#}
+#else{
+#QC_overall <- rbind(QC_overall, qcDF)
+#}
+

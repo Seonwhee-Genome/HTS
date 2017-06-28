@@ -1,0 +1,4 @@
+Drug	Target	z_score
+Everolimus	mTOR	-0.73
+BKM120	PI3K	-0.52
+Erismodegib	Smoothened	-0.50

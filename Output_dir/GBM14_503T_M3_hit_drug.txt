@@ -1,0 +1,9 @@
+Drug	Target	z_score
+Neratinib	EGFR	-1.17
+AZD5363	Akt1/2/3	-1.04
+Dasatinib 	Bcr-Abl	-0.89
+Panobinostat 	HDAC	-0.86
+Afatinib	EGFR	-0.58
+CO-1686	EGFR	-0.54
+Dabrafenib	BRAFV600	-0.53
+Bortezomib	Proteasome	-0.52

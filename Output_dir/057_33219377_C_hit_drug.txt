@@ -1,0 +1,15 @@
+Drug	Target	z_score
+LDK378	ALK	-1.69
+Crizotinib	Met, ALK	-1.15
+Erlotinib	HER1/EGFR	-1.06
+Trametinib	MEK1/2	-1.04
+AUY922	HSP (e.g. HSP90)	-0.94
+BYL719	PI3K	-0.86
+BEZ235	P3k/mTOR	-0.84
+BKM120	PI3K	-0.69
+PF-04449913	HSP90	-0.68
+Nilotinib 	Bcr-Abl	-0.58
+CO-1686	EGFR	-0.54
+Bosutinib	dual Src/Abl	-0.54
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.50

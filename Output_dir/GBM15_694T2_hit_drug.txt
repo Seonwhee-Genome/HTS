@@ -1,0 +1,4 @@
+Drug	Target	z_score
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.75
+XL147	PI3K	-0.61
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.51

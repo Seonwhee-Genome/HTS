@@ -1,0 +1,23 @@
+Drug	Target	z_score
+Dasatinib 	Bcr-Abl	-2.06
+GDC-0199 	Bcl-2	-2.01
+LY2835219	CDK4/6	-1.59
+BKM120	PI3K	-1.53
+BYL719	PI3K	-1.51
+Trametinib	MEK1/2	-1.41
+Neratinib	EGFR	-1.30
+Lapatinib	EGFR	-1.26
+AZD5363	Akt1/2/3	-1.16
+Canertinib	EGFR, HER2	-1.04
+Panobinostat 	HDAC	-1.04
+CO-1686	EGFR	-0.95
+AEE788	EGFR	-0.93
+Afatinib	EGFR	-0.90
+BMS-599626	EGFR	-0.82
+BEZ235	P3k/mTOR	-0.78
+XL765	P3k/mTOR	-0.78
+AZD2014	mTOR	-0.66
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.66
+LDK378	ALK	-0.56
+Gefitinib	EGFR	-0.51
+Crizotinib	Met, ALK	-0.50

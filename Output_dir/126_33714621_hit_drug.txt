@@ -1,0 +1,6 @@
+Drug	Target	z_score
+Dasatinib 	Bcr-Abl	-1.12
+GDC-0199 	Bcl-2	-0.98
+PF-04449913	HSP90	-0.77
+BYL719	PI3K	-0.75
+Trametinib	MEK1/2	-0.51

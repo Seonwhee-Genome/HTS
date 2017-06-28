@@ -1,0 +1,14 @@
+Drug	Target	z_score
+Lapatinib	EGFR	-2.98
+Erismodegib	Smoothened	-2.46
+Neratinib	EGFR	-1.90
+Canertinib	EGFR, HER2	-1.89
+Gefitinib	EGFR	-1.72
+Afatinib	EGFR	-1.60
+Selumetinib	MEK1	-1.10
+Panobinostat 	HDAC	-1.00
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.75
+Carfilzomib	Proteasome	-0.66
+Bosutinib	dual Src/Abl	-0.64
+Nilotinib 	Bcr-Abl	-0.60

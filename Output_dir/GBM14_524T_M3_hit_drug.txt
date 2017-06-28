@@ -1,0 +1,8 @@
+Drug	Target	z_score
+PF-04449913	HSP90	-1.86
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-1.09
+Selumetinib	MEK1	-0.82
+Sunitinib	VEGFR2 and PDGFRb	-0.71
+LY2835219	CDK4/6	-0.70
+Panobinostat 	HDAC	-0.66
+AZD4547	FGFR1/2/3	-0.53

@@ -1,0 +1,21 @@
+Drug	Target	z_score
+Everolimus	mTOR	-2.03
+AZD2014	mTOR	-1.96
+XL147	PI3K	-1.89
+Erlotinib	HER1/EGFR	-1.47
+BKM120	PI3K	-1.44
+BYL719	PI3K	-1.22
+Panobinostat 	HDAC	-0.95
+GDC-0199 	Bcl-2	-0.73
+Selumetinib	MEK1	-0.68
+AZD5363	Akt1/2/3	-0.64
+BEZ235	P3k/mTOR	-0.62
+Neratinib	EGFR	-0.58
+Sunitinib	VEGFR2 and PDGFRb	-0.57
+LDK378	ALK	-0.55
+Dasatinib 	Bcr-Abl	-0.54
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.53
+AUY922	HSP (e.g. HSP90)	-0.53
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.53

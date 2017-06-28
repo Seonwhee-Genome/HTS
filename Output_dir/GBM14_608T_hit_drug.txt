@@ -1,0 +1,17 @@
+Drug	Target	z_score
+AEE788	EGFR	-1.10
+Lapatinib	EGFR	-1.09
+Vandetanib	VEGFR2	-1.00
+Gefitinib	EGFR	-0.96
+Afatinib	EGFR	-0.77
+Neratinib	EGFR	-0.76
+Nilotinib 	Bcr-Abl	-0.72
+PF-04449913	HSP90	-0.69
+Dacomitinib	EGFR	-0.68
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.64
+Canertinib	EGFR, HER2	-0.60
+Bortezomib	Proteasome	-0.58
+Erlotinib	HER1/EGFR	-0.56
+CO-1686	EGFR	-0.54
+Carfilzomib	Proteasome	-0.53

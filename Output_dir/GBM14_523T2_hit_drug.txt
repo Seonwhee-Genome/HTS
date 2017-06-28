@@ -1,0 +1,7 @@
+Drug	Target	z_score
+Sunitinib	VEGFR2 and PDGFRb	-1.25
+Trametinib	MEK1/2	-1.18
+Selumetinib	MEK1	-0.84
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.83
+Cediranib 	VEGFR, Flt	-0.66
+LY2835219	CDK4/6	-0.64

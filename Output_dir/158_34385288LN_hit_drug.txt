@@ -1,0 +1,3 @@
+Drug	Target	z_score
+AUY922	HSP (e.g. HSP90)	-0.91
+Trametinib	MEK1/2	-0.90

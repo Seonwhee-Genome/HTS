@@ -1,0 +1,20 @@
+Drug	Target	z_score
+BYL719	PI3K	-2.94
+BKM120	PI3K	-2.55
+AZD2014	mTOR	-2.38
+BEZ235	P3k/mTOR	-2.09
+LDK378	ALK	-1.60
+AZD5363	Akt1/2/3	-1.54
+PKI-587	P3k/mTOR	-1.47
+XL765	P3k/mTOR	-1.38
+CO-1686	EGFR	-1.22
+Everolimus	mTOR	-1.18
+Neratinib	EGFR	-1.13
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.97
+XL147	PI3K	-0.83
+Erlotinib	HER1/EGFR	-0.82
+Bosutinib	dual Src/Abl	-0.73
+Panobinostat 	HDAC	-0.63
+GDC-0199 	Bcl-2	-0.62
+Bortezomib	Proteasome	-0.60

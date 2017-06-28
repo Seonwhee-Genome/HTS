@@ -1,0 +1,21 @@
+Drug	Target	z_score
+Bosutinib	dual Src/Abl	-1.78
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-1.52
+Selumetinib	MEK1	-1.32
+Vemurafenib	B-RafV600E	-1.16
+Sunitinib	VEGFR2 and PDGFRb	-1.14
+AZD4547	FGFR1/2/3	-0.93
+Afatinib	EGFR	-0.87
+AZD5363	Akt1/2/3	-0.83
+Trametinib	MEK1/2	-0.82
+Erlotinib	HER1/EGFR	-0.76
+BKM120	PI3K	-0.75
+BGJ398	FGFR1/2/3	-0.75
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.69
+Canertinib	EGFR, HER2	-0.64
+Gefitinib	EGFR	-0.64
+AEE788	EGFR	-0.58
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.58
+Dacomitinib	EGFR	-0.56
+BYL719	PI3K	-0.55

@@ -1,0 +1,10 @@
+Drug	Target	z_score
+PKI-587	P3k/mTOR	-1.02
+Erlotinib	HER1/EGFR	-0.88
+Lapatinib	EGFR	-0.74
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.71
+Erismodegib	Smoothened	-0.70
+AZD5363	Akt1/2/3	-0.68
+Bortezomib	Proteasome	-0.62
+LGK-974	PORCN	-0.62
+AZD2014	mTOR	-0.55

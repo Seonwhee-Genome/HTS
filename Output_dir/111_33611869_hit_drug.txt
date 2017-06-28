@@ -1,0 +1,13 @@
+Drug	Target	z_score
+GDC-0199 	Bcl-2	-1.19
+Vemurafenib	B-RafV600E	-1.11
+Erismodegib	Smoothened	-1.04
+Trametinib	MEK1/2	-0.92
+Nilotinib 	Bcr-Abl	-0.87
+BYL719	PI3K	-0.74
+LDK378	ALK	-0.74
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.73
+Veliparib	PARP	-0.66
+PF-04449913	HSP90	-0.60
+Crizotinib	Met, ALK	-0.58
+Carfilzomib	Proteasome	-0.52

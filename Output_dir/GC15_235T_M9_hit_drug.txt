@@ -1,0 +1,15 @@
+Drug	Target	z_score
+GDC-0199 	Bcl-2	-3.56
+Ruxolitinib	JAK1/2	-1.87
+LY2835219	CDK4/6	-1.79
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-1.57
+Palbociclib	CDK4/6	-1.19
+Panobinostat 	HDAC	-1.17
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-1.10
+Neratinib	EGFR	-1.03
+BEZ235	P3k/mTOR	-0.91
+AZD5363	Akt1/2/3	-0.72
+BKM120	PI3K	-0.72
+PKI-587	P3k/mTOR	-0.52

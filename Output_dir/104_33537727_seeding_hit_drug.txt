@@ -1,0 +1,11 @@
+Drug	Target	z_score
+Panobinostat 	HDAC	-1.95
+Selumetinib	MEK1	-1.81
+Cediranib 	VEGFR, Flt	-1.74
+LDK378	ALK	-1.48
+Trametinib	MEK1/2	-1.01
+BMS-599626	EGFR	-0.94
+BYL719	PI3K	-0.63
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.58
+GDC-0199 	Bcl-2	-0.57
+LGK-974	PORCN	-0.57

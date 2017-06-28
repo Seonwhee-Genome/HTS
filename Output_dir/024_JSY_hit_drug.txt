@@ -1,0 +1,13 @@
+Drug	Target	z_score
+Erlotinib	HER1/EGFR	-1.60
+AZD2014	mTOR	-1.51
+BYL719	PI3K	-1.50
+BKM120	PI3K	-1.35
+AZD5363	Akt1/2/3	-1.08
+Bosutinib	dual Src/Abl	-1.00
+BEZ235	P3k/mTOR	-0.94
+LDK378	ALK	-0.85
+XL765	P3k/mTOR	-0.84
+Nilotinib 	Bcr-Abl	-0.65
+PKI-587	P3k/mTOR	-0.64
+GDC-0199 	Bcl-2	-0.52

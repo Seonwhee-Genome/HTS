@@ -1,0 +1,17 @@
+Drug	Target	z_score
+Afatinib	EGFR	-1.46
+Neratinib	EGFR	-1.38
+Dacomitinib	EGFR	-1.16
+AZD5363	Akt1/2/3	-1.02
+AZD2014	mTOR	-0.97
+Bosutinib	dual Src/Abl	-0.88
+Everolimus	mTOR	-0.87
+AEE788	EGFR	-0.81
+CO-1686	EGFR	-0.79
+Canertinib	EGFR, HER2	-0.76
+Gefitinib	EGFR	-0.70
+Bortezomib	Proteasome	-0.70
+LY2835219	CDK4/6	-0.53
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.53
+BKM120	PI3K	-0.52

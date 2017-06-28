@@ -1,0 +1,8 @@
+Drug	Target	z_score
+Dasatinib 	Bcr-Abl	-1.71
+XL147	PI3K	-1.61
+Nilotinib 	Bcr-Abl	-0.94
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.84
+AEE788	EGFR	-0.77
+Vandetanib	VEGFR2	-0.68
+LEE011	CDK4/6	-0.59

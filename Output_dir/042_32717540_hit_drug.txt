@@ -1,0 +1,15 @@
+Drug	Target	z_score
+PF-04449913	HSP90	-2.30
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-1.63
+Nilotinib 	Bcr-Abl	-1.46
+BYL719	PI3K	-1.33
+Erlotinib	HER1/EGFR	-1.10
+Lapatinib	EGFR	-1.07
+GDC-0199 	Bcl-2	-1.01
+AZD2014	mTOR	-0.95
+Trametinib	MEK1/2	-0.86
+BEZ235	P3k/mTOR	-0.84
+LY2835219	CDK4/6	-0.65
+LDK378	ALK	-0.62
+Neratinib	EGFR	-0.53

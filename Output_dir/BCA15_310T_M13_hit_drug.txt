@@ -1,0 +1,10 @@
+Drug	Target	z_score
+XL765	P3k/mTOR	-1.35
+Imatinib 	v-Abl, c-Kit and PDGFR	-1.18
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.94
+Vandetanib	VEGFR2	-0.90
+AEE788	EGFR	-0.85
+Lapatinib	EGFR	-0.83
+Afatinib	EGFR	-0.59
+BMS-599626	EGFR	-0.57
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.52

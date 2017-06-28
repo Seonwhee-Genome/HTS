@@ -1,0 +1,24 @@
+Drug	Target	z_score
+Palbociclib	CDK4/6	-1.80
+Imatinib 	v-Abl, c-Kit and PDGFR	-1.59
+INCB28060	Met	-1.49
+BEZ235	P3k/mTOR	-1.21
+LY2835219	CDK4/6	-1.11
+Olaparib	PARP1/2	-1.07
+Dasatinib 	Bcr-Abl	-1.03
+Vemurafenib	B-RafV600E	-1.01
+Trametinib	MEK1/2	-0.94
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-0.88
+LDK378	ALK	-0.87
+AEE788	EGFR	-0.81
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-0.81
+AZD2014	mTOR	-0.77
+XL147	PI3K	-0.76
+Lapatinib	EGFR	-0.75
+Bortezomib	Proteasome	-0.71
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.65
+Vismodegib	Hedgehog/smothen	-0.59
+Tivozanib	VEGFR, c-Kit, PDGFR	-0.53

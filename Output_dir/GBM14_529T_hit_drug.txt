@@ -1,0 +1,19 @@
+Drug	Target	z_score
+Crizotinib	Met, ALK	-4.28
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-3.64
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-3.51
+GDC-0199 	Bcl-2	-2.43
+LY2835219	CDK4/6	-1.79
+Selumetinib	MEK1	-1.70
+Trametinib	MEK1/2	-1.65
+CO-1686	EGFR	-1.15
+Panobinostat 	HDAC	-1.03
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.93
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.90
+Carfilzomib	Proteasome	-0.74
+Cediranib 	VEGFR, Flt	-0.66
+AZD5363	Akt1/2/3	-0.56
+Palbociclib	CDK4/6	-0.54

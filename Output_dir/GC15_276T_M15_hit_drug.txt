@@ -1,0 +1,20 @@
+Drug	Target	z_score
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-1.68
+Afatinib	EGFR	-1.58
+AEE788	EGFR	-1.27
+Canertinib	EGFR, HER2	-1.22
+PKI-587	P3k/mTOR	-1.20
+Gefitinib	EGFR	-1.19
+Dacomitinib	EGFR	-1.16
+Lapatinib	EGFR	-1.03
+Erismodegib	Smoothened	-1.00
+Bosutinib	dual Src/Abl	-0.98
+Neratinib	EGFR	-0.91
+AZD2014	mTOR	-0.91
+Vemurafenib	B-RafV600E	-0.88
+Vismodegib	Hedgehog/smothen	-0.86
+Crizotinib	Met, ALK	-0.76
+Nilotinib 	Bcr-Abl	-0.73
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.59
+XL765	P3k/mTOR	-0.50

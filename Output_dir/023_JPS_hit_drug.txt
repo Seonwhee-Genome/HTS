@@ -1,0 +1,3 @@
+Drug	Target	z_score
+Erlotinib	HER1/EGFR	-0.67
+Nilotinib 	Bcr-Abl	-0.51

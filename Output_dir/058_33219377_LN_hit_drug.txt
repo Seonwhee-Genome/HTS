@@ -1,0 +1,15 @@
+Drug	Target	z_score
+AZD4547	FGFR1/2/3	-1.57
+PF-04449913	HSP90	-1.55
+LDK378	ALK	-1.49
+BGJ398	FGFR1/2/3	-1.22
+Erismodegib	Smoothened	-0.89
+Cediranib 	VEGFR, Flt	-0.87
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.86
+Ruxolitinib	JAK1/2	-0.83
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-0.77
+Crizotinib	Met, ALK	-0.77
+Trametinib	MEK1/2	-0.73
+Tivozanib	VEGFR, c-Kit, PDGFR	-0.63
+Vandetanib	VEGFR2	-0.52

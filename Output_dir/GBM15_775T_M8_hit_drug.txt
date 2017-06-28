@@ -1,0 +1,9 @@
+Drug	Target	z_score
+LY2835219	CDK4/6	-1.17
+Selumetinib	MEK1	-0.95
+Trametinib	MEK1/2	-0.90
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.87
+Erismodegib	Smoothened	-0.62
+Carfilzomib	Proteasome	-0.60
+Bortezomib	Proteasome	-0.57
+LGK-974	PORCN	-0.52

@@ -1,0 +1,7 @@
+Drug	Target	z_score
+Trametinib	MEK1/2	-1.12
+AUY922	HSP (e.g. HSP90)	-1.09
+Lapatinib	EGFR	-0.74
+Erlotinib	HER1/EGFR	-0.69
+Gefitinib	EGFR	-0.58
+Carfilzomib	Proteasome	-0.54

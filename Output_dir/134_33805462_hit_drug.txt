@@ -1,0 +1,5 @@
+Drug	Target	z_score
+Vismodegib	Hedgehog/smothen	-1.06
+Vandetanib	VEGFR2	-0.59
+Bosutinib	dual Src/Abl	-0.53
+Tivozanib	VEGFR, c-Kit, PDGFR	-0.52

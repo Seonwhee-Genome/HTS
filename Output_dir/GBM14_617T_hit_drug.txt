@@ -1,0 +1,2 @@
+Drug	Target	z_score
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.50

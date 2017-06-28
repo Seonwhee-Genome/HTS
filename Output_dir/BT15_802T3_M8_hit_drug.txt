@@ -1,0 +1,9 @@
+Drug	Target	z_score
+XL147	PI3K	-1.53
+Afatinib	EGFR	-1.00
+Canertinib	EGFR, HER2	-0.81
+Nilotinib 	Bcr-Abl	-0.81
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.78
+PKI-587	P3k/mTOR	-0.74
+Dacomitinib	EGFR	-0.69

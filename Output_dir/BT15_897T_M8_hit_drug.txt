@@ -1,0 +1,15 @@
+Drug	Target	z_score
+AZD4547	FGFR1/2/3	-1.13
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.99
+Tivozanib	VEGFR, c-Kit, PDGFR	-0.94
+Cediranib 	VEGFR, Flt	-0.86
+AUY922	HSP (e.g. HSP90)	-0.79
+Sunitinib	VEGFR2 and PDGFRb	-0.78
+BGJ398	FGFR1/2/3	-0.75
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-0.69
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.56
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-0.55
+GDC-0199 	Bcl-2	-0.54
+Panobinostat 	HDAC	-0.51

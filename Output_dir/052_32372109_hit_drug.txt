@@ -1,0 +1,38 @@
+Drug	Target	z_score
+AEE788	EGFR	-1.96
+Vandetanib	VEGFR2	-1.87
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-1.82
+Dasatinib 	Bcr-Abl	-1.69
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-1.60
+Gefitinib	EGFR	-1.56
+Neratinib	EGFR	-1.46
+Lapatinib	EGFR	-1.44
+BYL719	PI3K	-1.44
+Dacomitinib	EGFR	-1.42
+BKM120	PI3K	-1.42
+BMS-599626	EGFR	-1.39
+LDK378	ALK	-1.29
+Veliparib	PARP	-1.22
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-1.21
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-1.16
+Erlotinib	HER1/EGFR	-1.06
+Erismodegib	Smoothened	-1.02
+AZD4547	FGFR1/2/3	-1.01
+BGJ398	FGFR1/2/3	-1.01
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.82
+Crizotinib	Met, ALK	-0.81
+BEZ235	P3k/mTOR	-0.80
+Cediranib 	VEGFR, Flt	-0.69
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-0.66
+Vemurafenib	B-RafV600E	-0.65
+PKI-587	P3k/mTOR	-0.63
+Sunitinib	VEGFR2 and PDGFRb	-0.63
+Canertinib	EGFR, HER2	-0.60
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-0.60
+CO-1686	EGFR	-0.57
+Carfilzomib	Proteasome	-0.57

@@ -1,0 +1,13 @@
+Drug	Target	z_score
+Erlotinib	HER1/EGFR	-1.64
+BEZ235	P3k/mTOR	-1.20
+BKM120	PI3K	-1.07
+GDC-0199 	Bcl-2	-1.07
+AZD2014	mTOR	-1.05
+BYL719	PI3K	-0.99
+Nilotinib 	Bcr-Abl	-0.91
+CO-1686	EGFR	-0.79
+LDK378	ALK	-0.77
+LY2835219	CDK4/6	-0.69
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.54

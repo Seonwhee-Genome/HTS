@@ -1,0 +1,3 @@
+Drug	Target	z_score
+Neratinib	EGFR	-0.80
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.56

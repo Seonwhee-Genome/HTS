@@ -1,0 +1,11 @@
+Drug	Target	z_score
+Sotrastaurin 	PKC	-1.70
+PF-04449913	HSP90	-1.66
+Tandutinib	FLT3 ,PDGFR, and KIT	-1.38
+Nilotinib 	Bcr-Abl	-1.12
+Cediranib 	VEGFR, Flt	-0.99
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.93
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.82
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-0.80
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.70

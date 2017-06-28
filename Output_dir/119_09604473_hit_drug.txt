@@ -1,0 +1,12 @@
+Drug	Target	z_score
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-3.13
+XL765	P3k/mTOR	-2.44
+Trametinib	MEK1/2	-1.07
+BYL719	PI3K	-0.89
+BKM120	PI3K	-0.79
+Carfilzomib	Proteasome	-0.77
+Bortezomib	Proteasome	-0.64
+Everolimus	mTOR	-0.54
+Dasatinib 	Bcr-Abl	-0.52
+CO-1686	EGFR	-0.50

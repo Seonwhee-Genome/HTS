@@ -1,0 +1,7 @@
+Drug	Target	z_score
+XL147	PI3K	-2.11
+Lapatinib	EGFR	-1.64
+Imatinib 	v-Abl, c-Kit and PDGFR	-1.55
+BEZ235	P3k/mTOR	-1.35
+Trametinib	MEK1/2	-1.22
+Bortezomib	Proteasome	-0.52

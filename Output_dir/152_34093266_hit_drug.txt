@@ -1,0 +1,3 @@
+Drug	Target	z_score
+Dasatinib 	Bcr-Abl	-0.96
+Bortezomib	Proteasome	-0.61

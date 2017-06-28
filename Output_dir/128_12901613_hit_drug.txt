@@ -1,0 +1,11 @@
+Drug	Target	z_score
+Erismodegib	Smoothened	-1.15
+Dasatinib 	Bcr-Abl	-0.98
+PF-04449913	HSP90	-0.93
+BYL719	PI3K	-0.73
+Everolimus	mTOR	-0.70
+LDK378	ALK	-0.64
+AZD4547	FGFR1/2/3	-0.61
+Vemurafenib	B-RafV600E	-0.59
+Trametinib	MEK1/2	-0.56
+BKM120	PI3K	-0.53

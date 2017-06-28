@@ -1,0 +1,13 @@
+Drug	Target	z_score
+PKI-587	P3k/mTOR	-1.42
+BEZ235	P3k/mTOR	-1.38
+AZD2014	mTOR	-1.25
+Nilotinib 	Bcr-Abl	-1.12
+AZD5363	Akt1/2/3	-0.85
+BYL719	PI3K	-0.85
+Vemurafenib	B-RafV600E	-0.85
+Erismodegib	Smoothened	-0.69
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-0.66
+BKM120	PI3K	-0.54
+Bortezomib	Proteasome	-0.51

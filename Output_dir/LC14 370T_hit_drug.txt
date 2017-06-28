@@ -1,0 +1,8 @@
+Drug	Target	z_score
+Neratinib	EGFR	-2.03
+CO-1686	EGFR	-1.13
+Erlotinib	HER1/EGFR	-0.83
+Everolimus	mTOR	-0.83
+AZD2014	mTOR	-0.82
+Panobinostat 	HDAC	-0.80
+Bortezomib	Proteasome	-0.71

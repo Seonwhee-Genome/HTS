@@ -1,0 +1,10 @@
+Drug	Target	z_score
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-1.42
+Veliparib	PARP	-1.08
+Afatinib	EGFR	-1.00
+Vandetanib	VEGFR2	-0.81
+Selumetinib	MEK1	-0.80
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.75
+LGK-974	PORCN	-0.63

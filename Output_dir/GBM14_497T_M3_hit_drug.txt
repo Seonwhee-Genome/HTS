@@ -1,0 +1,28 @@
+Drug	Target	z_score
+Tandutinib	FLT3 ,PDGFR, and KIT	-2.93
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-2.69
+Sunitinib	VEGFR2 and PDGFRb	-2.14
+Neratinib	EGFR	-2.13
+LY2835219	CDK4/6	-1.84
+Erismodegib	Smoothened	-1.82
+Tivozanib	VEGFR, c-Kit, PDGFR	-1.66
+Imatinib 	v-Abl, c-Kit and PDGFR	-1.64
+Selumetinib	MEK1	-1.39
+Bosutinib	dual Src/Abl	-1.16
+Gefitinib	EGFR	-1.14
+AZD5363	Akt1/2/3	-1.09
+AEE788	EGFR	-1.08
+Crizotinib	Met, ALK	-1.02
+Sotrastaurin 	PKC	-1.02
+Palbociclib	CDK4/6	-0.99
+Cediranib 	VEGFR, Flt	-0.94
+Dabrafenib	BRAFV600	-0.94
+Vemurafenib	B-RafV600E	-0.85
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.73
+Canertinib	EGFR, HER2	-0.59
+BMS-599626	EGFR	-0.58
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.57
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.51

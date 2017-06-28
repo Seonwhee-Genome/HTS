@@ -1,0 +1,6 @@
+Drug	Target	z_score
+AUY922	HSP (e.g. HSP90)	-0.99
+GDC-0199 	Bcl-2	-0.95
+Crizotinib	Met, ALK	-0.74
+Vemurafenib	B-RafV600E	-0.72
+Carfilzomib	Proteasome	-0.67

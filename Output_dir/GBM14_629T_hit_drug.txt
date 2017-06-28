@@ -1,0 +1,9 @@
+Drug	Target	z_score
+Panobinostat 	HDAC	-1.76
+GDC-0199 	Bcl-2	-1.30
+Vemurafenib	B-RafV600E	-1.25
+Trametinib	MEK1/2	-0.97
+Sunitinib	VEGFR2 and PDGFRb	-0.81
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.78
+AZD5363	Akt1/2/3	-0.57
+Selumetinib	MEK1	-0.54

@@ -1,0 +1,25 @@
+Drug	Target	z_score
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-1.75
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-1.69
+Vismodegib	Hedgehog/smothen	-1.58
+Nilotinib 	Bcr-Abl	-1.40
+Imatinib 	v-Abl, c-Kit and PDGFR	-1.38
+BGJ398	FGFR1/2/3	-1.28
+Tivozanib	VEGFR, c-Kit, PDGFR	-1.26
+Crizotinib	Met, ALK	-1.24
+Erismodegib	Smoothened	-1.16
+GDC-0199 	Bcl-2	-1.06
+Vemurafenib	B-RafV600E	-1.00
+Sunitinib	VEGFR2 and PDGFRb	-0.91
+Cediranib 	VEGFR, Flt	-0.85
+Panobinostat 	HDAC	-0.80
+PKI-587	P3k/mTOR	-0.75
+AEE788	EGFR	-0.70
+AZD5363	Akt1/2/3	-0.64
+Cabozantinib	VEGFR2,c-Met, Ret,
+ Kit, Flt-1/3/4, Tie2, and AXL	-0.62
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-0.58
+Bosutinib	dual Src/Abl	-0.57
+Carfilzomib	Proteasome	-0.54

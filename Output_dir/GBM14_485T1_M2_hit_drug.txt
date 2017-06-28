@@ -1,0 +1,3 @@
+Drug	Target	z_score
+Panobinostat 	HDAC	-0.95
+Bortezomib	Proteasome	-0.53

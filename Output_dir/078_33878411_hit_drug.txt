@@ -1,0 +1,3 @@
+Drug	Target	z_score
+PF-04449913	HSP90	-1.66
+Erlotinib	HER1/EGFR	-0.81

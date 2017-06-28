@@ -1,0 +1,9 @@
+Drug	Target	z_score
+BGJ398	FGFR1/2/3	-1.05
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.97
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.96
+Cediranib 	VEGFR, Flt	-0.91
+Tivozanib	VEGFR, c-Kit, PDGFR	-0.88
+AZD4547	FGFR1/2/3	-0.85
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.52

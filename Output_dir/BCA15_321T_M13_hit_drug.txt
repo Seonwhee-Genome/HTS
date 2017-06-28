@@ -1,0 +1,14 @@
+Drug	Target	z_score
+Erismodegib	Smoothened	-1.35
+Dacomitinib	EGFR	-1.05
+AEE788	EGFR	-1.04
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.88
+AZD4547	FGFR1/2/3	-0.87
+Dasatinib 	Bcr-Abl	-0.86
+Vismodegib	Hedgehog/smothen	-0.79
+BGJ398	FGFR1/2/3	-0.77
+Canertinib	EGFR, HER2	-0.70
+LDK378	ALK	-0.66
+Vandetanib	VEGFR2	-0.61
+Trametinib	MEK1/2	-0.55

@@ -1,0 +1,3 @@
+Drug	Target	z_score
+Sunitinib	VEGFR2 and PDGFRb	-2.51
+AEE788	EGFR	-1.24

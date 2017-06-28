@@ -1,0 +1,8 @@
+Drug	Target	z_score
+Dacomitinib	EGFR	-1.48
+Afatinib	EGFR	-1.45
+Gefitinib	EGFR	-0.78
+AEE788	EGFR	-0.73
+Canertinib	EGFR, HER2	-0.69
+Erlotinib	HER1/EGFR	-0.63
+Panobinostat 	HDAC	-0.50

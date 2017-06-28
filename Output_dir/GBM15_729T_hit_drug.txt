@@ -1,0 +1,9 @@
+Drug	Target	z_score
+Vandetanib	VEGFR2	-1.05
+Vemurafenib	B-RafV600E	-0.90
+LY2835219	CDK4/6	-0.67
+AZD5363	Akt1/2/3	-0.61
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.58
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-0.57
+Carfilzomib	Proteasome	-0.51

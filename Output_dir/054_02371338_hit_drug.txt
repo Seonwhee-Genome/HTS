@@ -1,0 +1,8 @@
+Drug	Target	z_score
+LDK378	ALK	-1.43
+Erlotinib	HER1/EGFR	-1.13
+PF-04449913	HSP90	-0.96
+Crizotinib	Met, ALK	-0.85
+CO-1686	EGFR	-0.81
+Trametinib	MEK1/2	-0.61
+AZD2014	mTOR	-0.54

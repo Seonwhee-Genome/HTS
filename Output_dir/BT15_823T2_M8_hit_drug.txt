@@ -1,0 +1,13 @@
+Drug	Target	z_score
+Panobinostat 	HDAC	-2.50
+LDK378	ALK	-1.24
+LEE011	CDK4/6	-1.06
+Crizotinib	Met, ALK	-1.04
+Palbociclib	CDK4/6	-1.00
+Erismodegib	Smoothened	-0.84
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.80
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.80
+PKI-587	P3k/mTOR	-0.71
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.63
+LY2835219	CDK4/6	-0.58

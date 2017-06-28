@@ -1,0 +1,14 @@
+Drug	Target	z_score
+BYL719	PI3K	-1.41
+Lapatinib	EGFR	-1.33
+Erlotinib	HER1/EGFR	-1.26
+Dacomitinib	EGFR	-1.24
+AZD2014	mTOR	-1.20
+AZD5363	Akt1/2/3	-1.15
+CO-1686	EGFR	-1.05
+Gefitinib	EGFR	-0.94
+Everolimus	mTOR	-0.90
+Bosutinib	dual Src/Abl	-0.80
+BMS-599626	EGFR	-0.77
+Carfilzomib	Proteasome	-0.75
+BKM120	PI3K	-0.58

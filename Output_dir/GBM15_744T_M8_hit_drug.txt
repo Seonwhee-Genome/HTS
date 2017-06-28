@@ -1,0 +1,30 @@
+Drug	Target	z_score
+Olaparib	PARP1/2	-1.99
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-1.85
+Imatinib 	v-Abl, c-Kit and PDGFR	-1.49
+Tandutinib	FLT3 ,PDGFR, and KIT	-1.43
+Erismodegib	Smoothened	-1.34
+Crizotinib	Met, ALK	-1.19
+GDC-0199 	Bcl-2	-1.18
+LEE011	CDK4/6	-1.05
+Foretinib	HGFR and VEGFR, mo
+stly for Met and KDR	-0.98
+AZD4547	FGFR1/2/3	-0.97
+Palbociclib	CDK4/6	-0.90
+LY2835219	CDK4/6	-0.86
+AZD5363	Akt1/2/3	-0.84
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-0.84
+Trametinib	MEK1/2	-0.82
+Nilotinib 	Bcr-Abl	-0.80
+Bortezomib	Proteasome	-0.80
+Veliparib	PARP	-0.79
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.78
+Vismodegib	Hedgehog/smothen	-0.77
+PKI-587	P3k/mTOR	-0.76
+Selumetinib	MEK1	-0.76
+Ibrutinib	Btk,modestly poten
+t to Bmx, CSK, FGR, BRK, HCK, less potent to EGFR, ErbB2, JAK3	-0.71
+XL147	PI3K	-0.69
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-0.59

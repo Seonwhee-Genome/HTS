@@ -1,0 +1,5 @@
+Drug	Target	z_score
+AUY922	HSP (e.g. HSP90)	-0.72
+Carfilzomib	Proteasome	-0.69
+Nilotinib 	Bcr-Abl	-0.64
+Neratinib	EGFR	-0.55

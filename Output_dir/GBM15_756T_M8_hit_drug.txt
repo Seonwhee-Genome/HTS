@@ -1,0 +1,11 @@
+Drug	Target	z_score
+AZD5363	Akt1/2/3	-1.10
+XL147	PI3K	-1.07
+Canertinib	EGFR, HER2	-0.70
+BGJ398	FGFR1/2/3	-0.62
+Everolimus	mTOR	-0.60
+Axitinib	VEGFR1/2/3, PDGFRb and c-Kit	-0.58
+LDK378	ALK	-0.55
+Palbociclib	CDK4/6	-0.53
+PKI-587	P3k/mTOR	-0.52
+XL765	P3k/mTOR	-0.51

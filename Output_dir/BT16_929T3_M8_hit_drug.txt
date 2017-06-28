@@ -1,0 +1,11 @@
+Drug	Target	z_score
+PKI-587	P3k/mTOR	-1.53
+LY2835219	CDK4/6	-1.49
+CO-1686	EGFR	-0.96
+Canertinib	EGFR, HER2	-0.91
+BEZ235	P3k/mTOR	-0.82
+AUY922	HSP (e.g. HSP90)	-0.82
+AZD2014	mTOR	-0.80
+AZD5363	Akt1/2/3	-0.79
+Regorafenib	VEGFR1/2/3, PDGFRb
+, Kit, RET and Raf-1	-0.62

@@ -1,0 +1,22 @@
+Drug	Target	z_score
+XL147	PI3K	-2.20
+Everolimus	mTOR	-1.56
+Ruxolitinib	JAK1/2	-1.52
+Erlotinib	HER1/EGFR	-1.46
+AZD5363	Akt1/2/3	-1.37
+BEZ235	P3k/mTOR	-1.36
+Bosutinib	dual Src/Abl	-1.25
+PKI-587	P3k/mTOR	-1.24
+AZD2014	mTOR	-1.20
+Canertinib	EGFR, HER2	-1.09
+Vandetanib	VEGFR2	-1.05
+CO-1686	EGFR	-1.04
+BYL719	PI3K	-0.97
+BKM120	PI3K	-0.89
+Imatinib 	v-Abl, c-Kit and PDGFR	-0.84
+XL765	P3k/mTOR	-0.77
+BMS-599626	EGFR	-0.72
+Nilotinib 	Bcr-Abl	-0.68
+Tandutinib	FLT3 ,PDGFR, and KIT	-0.66
+LDK378	ALK	-0.57
+Gefitinib	EGFR	-0.53

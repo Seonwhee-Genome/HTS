@@ -1,0 +1,6 @@
+Drug	Target	z_score
+Tandutinib	FLT3 ,PDGFR, and KIT	-1.95
+Vismodegib	Hedgehog/smothen	-1.01
+Vandetanib	VEGFR2	-0.82
+Sunitinib	VEGFR2 and PDGFRb	-0.77
+PF-04449913	HSP90	-0.77

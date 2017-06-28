@@ -1,0 +1,9 @@
+Drug	Target	z_score
+INCB28060	Met	-2.11
+GDC-0199 	Bcl-2	-1.84
+Olaparib	PARP1/2	-1.45
+LY2835219	CDK4/6	-1.21
+Ruxolitinib	JAK1/2	-1.13
+Panobinostat 	HDAC	-1.08
+Vismodegib	Hedgehog/smothen	-1.01
+Bortezomib	Proteasome	-0.76

@@ -1,0 +1,14 @@
+Drug	Target	z_score
+Erismodegib	Smoothened	-1.99
+Pazopanib 	VEGFR1/2/3, PDGFR, FGFR, c-Kit	-1.05
+INCB28060	Met	-0.95
+XL147	PI3K	-0.92
+BGJ398	FGFR1/2/3	-0.84
+Cediranib 	VEGFR, Flt	-0.78
+Dovitinib 	Flt3, c-Kit, FGFR1
+/3, VEGFR1/2/3, PDGFRa/b	-0.66
+LGK-974	PORCN	-0.61
+Everolimus	mTOR	-0.57
+Erlotinib	HER1/EGFR	-0.53
+Nilotinib 	Bcr-Abl	-0.53
+LDK378	ALK	-0.52

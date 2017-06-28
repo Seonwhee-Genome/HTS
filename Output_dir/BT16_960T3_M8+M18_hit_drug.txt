@@ -1,0 +1,4 @@
+Drug	Target	z_score
+GDC-0199 	Bcl-2	-1.02
+Panobinostat 	HDAC	-0.81
+LY2835219	CDK4/6	-0.80

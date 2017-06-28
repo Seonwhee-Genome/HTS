@@ -1,0 +1,6 @@
+Drug	Target	z_score
+Trametinib	MEK1/2	-1.18
+Cediranib 	VEGFR, Flt	-0.75
+Crizotinib	Met, ALK	-0.69
+Selumetinib	MEK1	-0.54
+Carfilzomib	Proteasome	-0.53
